@@ -1,0 +1,26 @@
+body {
+    font-family: Ubuntu;
+    margin: 20px;
+    padding: 0;
+}
+
+#etymologi {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.word {
+    color: black;
+}
+
+.gray {
+    color: darkgray;
+}
+
+.dgray {
+    color: gray;
+}
+
+.lgray {
+    color: lightgray;
+}

@@ -593,6 +593,477 @@ var words = {
             }
         ]
     },
+    accedera: {
+        ordklass: "verb",
+        betyder: "registrera",
+        belagt: 1943,
+        från: [
+            {
+                ord: "accedere",
+                språk: "latin"
+            }
+        ]
+    },
+    accelerando: {
+        ordklass: "adverb",
+        betyder: "med tilltagande tempo",
+        belagt: 1856,
+        från: [
+            {
+                ord: "accelerando",
+                språk: "italienska"
+            }
+        ]
+    },
+    acceleration: {
+        ordklass: "substantiv",
+        betyder: "hastighetsökning per tidsenhet",
+        belagt: 1805,
+        från: [
+            {
+                ord: "acceleratio",
+                språk: "latin"
+            }
+        ]
+    },
+    accelerera: {
+        ordklass: "verb",
+        betyder: "öka hastigheten",
+        belagt: 1850,
+        från: [
+            {
+                ord: "accelerare",
+                språk: "latin"
+            }
+        ]
+    },
+    accent: {
+        ordklass: "substantiv",
+        betyder: "särskilt sätt att med styrka eller ton framhäva viss stavelse",
+        belagt: 1651,
+        från: [
+            {
+                ord: "accentus",
+                språk: "latin"
+            }
+        ]
+    },
+    accept: {
+        ordklass: "substantiv",
+        betyder: "växel som godkänts till betalning",
+        belagt: 1874,
+        från: [
+            {
+                ord: "acceptus",
+                språk: "latin"
+            }
+        ]
+    },
+    acceptant: {
+        ordklass: "substantiv",
+        betyder: "person som accepterat en växel",
+        belagt: 1669,
+        från: [
+            {
+                ord: "acceptant",
+                språk: "tyska"
+            },
+            {
+                ord: "acceptant",
+                språk: "franska"
+            }
+        ]
+    },
+    access: {
+        ordklass: "substantiv",
+        betyder: "tillgång",
+        belagt: 1903,
+        från: [
+            {
+                ord: "access",
+                språk: "engelska"
+            }
+        ]
+    },
+    accession: {
+        ordklass: "substantiv",
+        betyder: "tillskott till existerande (bok)samling",
+        belagt: 1837,
+        från: [
+            {
+                ord: "accessio",
+                språk: "latin"
+            }
+        ]
+    },
+    accessoar: {
+        ordklass: "substantiv",
+        betyder: "tillbehör",
+        belagt: 1892,
+        från: [
+            {
+                ord: "accessoires",
+                språk: "franska"
+            }
+        ]
+    },
+    accessorisk: {
+        ordklass: "adjektiv",
+        betyder: "som utgör ett (övertaligt) bihang",
+        belagt: 1840,
+        från: [
+            {
+                ord: "accessorius",
+                språk: "nylatin"
+            }
+        ]
+    },
+    accidens: {
+        ordklass: "substantiv",
+        betyder: "något tillfälligt och mindre väsentligt",
+        belagt: 1827,
+        från: [
+            {
+                ord: "accidens",
+                språk: "latin"
+            }
+        ]
+    },
+    accis: {
+        ordklass: "substantiv",
+        betyder: "särskild skatt på vissa varor",
+        belagt: 1534,
+        från: [
+            {
+                ord: "accise",
+                språk: "franska"
+            }
+        ]
+    },
+    accompagnato: {
+        ordklass: "substantiv",
+        betyder: "recitativ till orkesterackompanjemang",
+        belagt: 1904,
+        från: [
+            {
+                ord: "accompagnato",
+                språk: "italienska"
+            }
+        ]
+    },
+    acedia: {
+        ordklass: "substantiv",
+        betyder: "andlig lättja och liknöjdhet",
+        belagt: 1918,
+        från: [
+            {
+                ord: "akedeia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    acetaldehyd: {
+        ordklass: "substantiv",
+        betyder: "en färglös vätska som används som utgångsmaterial för framställning av många organiska produkter",
+        belagt: 1922,
+        från: [
+            {
+                ord: "acetum",
+                språk: "latin"
+            }
+        ]
+    },
+    acetat: {
+        ordklass: "substantiv",
+        betyder: "salt eller ester av ättiksyra",
+        belagt: 1876,
+        från: [
+            {
+                ord: "acetum",
+                språk: "latin"
+            }
+        ]
+    },
+    aceton: {
+        ordklass: "substantiv",
+        betyder: "en färglös flyktig vätska som används som lösningsmedel för organiska ämnen",
+        belagt: 1877,
+        från: [
+            {
+                ord: "acetum",
+                språk: "latin"
+            }
+        ]
+    },
+    acetylen: {
+        ordklass: "substantiv",
+        betyder: "ett gasformigt kolväte",
+        belagt: 1877,
+        från: [
+            {
+                ord: "acetum",
+                språk: "latin"
+            },
+            {
+                ord: "hyle",
+                språk: "grekiska"
+            }
+        ]
+    },
+    acetylsalicylsyra: {
+        ordklass: "substantiv",
+        betyder: "ett kristalliskt organiskt ämne som är huvudsaklig beståndsdel i några vanliga febernedsättande och smärtstillande läkemedel",
+        belagt: 1923,
+        från: [
+            {
+                ord: "acetum",
+                språk: "latin"
+            },
+            {
+                ord: "salix",
+                språk: "latin"
+            }
+        ]
+    },
+    aciditet: {
+        ordklass: "substantiv",
+        betyder: "grad av surhet i en (sur) lösning",
+        belagt: 1903,
+        från: [
+            {
+                ord: "acidus",
+                språk: "latin"
+            }
+        ]
+    },
+    acidofilus: {
+        ordklass: "substantiv",
+        betyder: "en bakterie som används vid framställning av vissa typer av surmjölk",
+        belagt: 1980,
+        från: [
+            {
+                ord: "acidus",
+                språk: "latin"
+            },
+            {
+                ord: "philos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    ack: {
+        ordklass: "interjektion",
+        betyder: "sorgligt att säga",
+        belagt: "1500-talet",
+        från: [
+            {
+                ord: "akh",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "ach",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    ackja: {
+        ordklass: "substantiv",
+        betyder: "typ av (samisk) släde med båtliknande konstruktion, avsedd att dras av renar",
+        belagt: 1555,
+        från: [
+            {
+                ord: "ahkio",
+                språk: "finländska"
+            }
+        ]
+    },
+    acklamation: {
+        ordklass: "substantiv",
+        betyder: "ljudligt och (nästan) enhälligt bifall",
+        belagt: 1645,
+        från: [
+            {
+                ord: "acclamatio",
+                språk: "latin"
+            }
+        ]
+    },
+    acklimatisera: {
+        ordklass: "verb",
+        betyder: "vänja vid nya förhållanden",
+        belagt: 1843,
+        från: [
+            {
+                ord: "acclimater",
+                språk: "franska"
+            }
+        ]
+    },
+    ackommodation: {
+        ordklass: "substantiv",
+        betyder: "anpassning",
+        belagt: 1861,
+        från: [
+            {
+                ord: "accomodatio",
+                språk: "latin"
+            }
+        ]
+    },
+    ackommodera: {
+        ordklass: "verb",
+        betyder: "anpassa",
+        belagt: 1627,
+        från: [
+            {
+                ord: "accommodare",
+                språk: "latin"
+            }
+        ]
+    },
+    ackompanjera: {
+        ordklass: "verb",
+        betyder: "spela ackompanjemang till",
+        belagt: 1779,
+        från: [
+            {
+                ord: "accompagner",
+                språk: "franska"
+            }
+        ]
+    },
+    ackord: {
+        ordklass: "substantiv",
+        betyder: "samklang av flera toner av olika höjd",
+        belagt: 1729,
+        från: [
+            {
+                ord: "accord",
+                språk: "franska"
+            }
+        ]
+    },
+    ackordeon: {
+        ordklass: "substantiv",
+        betyder: "dragspel",
+        belagt: 1864,
+        från: [
+            {
+                ord: "akkordion",
+                språk: "tyska"
+            }
+        ]
+    },
+    ackreditera: {
+        ordklass: "verb",
+        betyder: "förse med fullmakt",
+        belagt: 1740,
+        från: [
+            {
+                ord: "accréditer",
+                språk: "franska"
+            }
+        ]
+    },
+    ackumulera: {
+        ordklass: "verb",
+        betyder: "samla till sig och lagra",
+        belagt: 1615,
+        från: [
+            {
+                ord: "accumulare",
+                språk: "latin"
+            }
+        ]
+    },
+    ackurat: {
+        ordklass: "adjektiv",
+        betyder: "mycket noggrann",
+        belagt: 1716,
+        från: [
+            {
+                ord: "accuratus",
+                språk: "latin"
+            }
+        ]
+    },
+    ackusativ: {
+        ordklass: "substantiv",
+        betyder: "ett kasus som bl.a. förbinds med det direkta objektet",
+        belagt: 1796,
+        från: [
+            {
+                ord: "accusativus",
+                språk: "latin"
+            }
+        ]
+    },
+    ackusatorisk: {
+        ordklass: "adjektiv",
+        betyder: "som innebär att straffprocessen är utformad som en förhandling mellan likställda parter inför en i huvudsak passiv domstol",
+        belagt: 1878,
+        från: [
+            {
+                ord: "accusatorius",
+                språk: "latin"
+            }
+        ]
+    },
+    ackvirera: {
+        ordklass: "verb",
+        betyder: "bedriva ackvisition av",
+        belagt: 1664,
+        från: [
+            {
+                ord: "acquirere",
+                språk: "latin"
+            }
+        ]
+    },
+    ackvisition: {
+        ordklass: "substantiv",
+        betyder: "planmässigt anskaffande",
+        belagt: 1720,
+        från: [
+            {
+                ord: "acquisitio",
+                språk: "latin"
+            }
+        ]
+    },
+    acne: {
+        ordklass: "substantiv",
+        betyder: "typ av hudsjukdom med utslag",
+        belagt: 1903,
+        från: [
+            {
+                ord: "akhne",
+                språk: "grekiska"
+            }
+        ]
+    },
+    acta: {
+        ordklass: "substantiv",
+        betyder: "(samling av) handlingar eller dokument",
+        belagt: 1887,
+        från: [
+            {
+                ord: "acta",
+                språk: "latin"
+            }
+        ]
+    },
+    action: {
+        ordklass: "substantiv",
+        betyder: "dramatiskt händelseförlopp",
+        belagt: 1955,
+        från: [
+            {
+                ord: "action",
+                språk: "engelska"
+            }
+        ]
+    },
     MALL: {
         ordklass: "",
         betyder: "",
@@ -696,5 +1167,20 @@ function getWordCountByLanguage() {
 
 document.addEventListener("DOMContentLoaded", function () {
     displayWord("abakus");
-    console.log(getWordCountByLanguage());
+
+    const diagramContainer = document.getElementById('staple-diagram');
+
+    Object.entries(getWordCountByLanguage()).forEach(([key, value]) => {
+        const bar = document.createElement('div');
+        bar.className = 'bar';
+        bar.style.height = `${value * 4}px`;
+        bar.innerHTML = value;
+        
+        const label = document.createElement('div');
+        label.className = 'label';
+        label.textContent = key;
+        
+        bar.appendChild(label);
+        diagramContainer.appendChild(bar);
+    });
 });

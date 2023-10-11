@@ -24,3 +24,30 @@ body {
 .lgray {
     color: lightgray;
 }
+
+#staple-diagram {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 50vh;
+    margin: 0;
+}
+
+.bar {
+    width: 40px;
+    background-color: steelblue;
+    margin: 4px;
+    text-align: center;
+    color: white;
+    position: relative;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.label {
+    font-size: 12px;
+    background-color: lightblue;
+    color: black;
+    overflow: hidden;
+    font-weight: normal;
+}

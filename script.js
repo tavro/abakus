@@ -1063,6 +1063,970 @@ var words = {
                 språk: "engelska"
             }
         ]
+    },/*
+    "ad acta": {
+        ordklass: "adverb",
+        betyder: "till handlingarna",
+        belagt: 1842,
+        från: [
+            {
+                ord: "ad acta",
+                språk: "latin"
+            }
+        ]
+    },
+    "ad hoc": {
+        ordklass: "adverb",
+        betyder: "för detta särskilda (och tillfälliga) ändamål",
+        belagt: 1946,
+        från: [
+            {
+                ord: "ad hoc",
+                språk: "latin"
+            }
+        ]
+    },
+    "ad infinitum": {
+        ordklass: "adverb",
+        betyder: "i det oändliga",
+        belagt: 1823,
+        från: [
+            {
+                ord: "ad infinitum",
+                språk: "latin"
+            }
+        ]
+    },
+    "ad notam": {
+        ordklass: "adverb",
+        betyder: "som föreskrift",
+        belagt: 1655,
+        från: [
+            {
+                ord: "ad notam",
+                språk: "latin"
+            }
+        ]
+    },*/
+    adagietto: {
+        ordklass: "adverb",
+        betyder: "i ganska långsamt tempo",
+        belagt: "1800-talet",
+        från: [
+            {
+                ord: "adagietto",
+                språk: "italienska"
+            }
+        ]
+    },
+    adagio: {
+        ordklass: "adverb",
+        betyder: "i långsamt tempo",
+        belagt: 1802,
+        från: [
+            {
+                ord: "adagio",
+                språk: "italienska"
+            }
+        ]
+    },
+    adaptera: {
+        ordklass: "verb",
+        betyder: "anpassa",
+        belagt: 1904,
+        från: [
+            {
+                ord: "adaptare",
+                språk: "latin"
+            }
+        ]
+    },
+    addera: {
+        ordklass: "verb",
+        betyder: "räkna samman (olika tal) till en summa",
+        belagt: 1633,
+        från: [
+            {
+                ord: "addere",
+                språk: "latin"
+            }
+        ]
+    },
+    addiktion: {
+        ordklass: "substantiv",
+        betyder: "tillvänjning till stimulantia",
+        belagt: 1968,
+        från: [
+            {
+                ord: "addiction",
+                språk: "engelska"
+            }
+        ]
+    },
+    additament: {
+        ordklass: "substantiv",
+        betyder: "tillägg eller ändring",
+        belagt: 1726,
+        från: [
+            {
+                ord: "additamentum",
+                språk: "latin"
+            }
+        ]
+    },
+    addition: {
+        ordklass: "substantiv",
+        betyder: "räkneoperation som innebär att olika talvärden räknas samman till en summa",
+        belagt: 1745,
+        från: [
+            {
+                ord: "additio",
+                språk: "latin"
+            }
+        ]
+    },
+    additiv: {
+        ordklass: "substantiv",
+        betyder: "tillsatsämne",
+        belagt: 1962,
+        från: [
+            {
+                ord: "additive",
+                språk: "engelska"
+            }
+        ]
+    },
+    adducera: {
+        ordklass: "verb",
+        betyder: "röra (en kroppsdel) mot kroppens eller en kroppsdels mittlinje",
+        belagt: 1914,
+        från: [
+            {
+                ord: "adducere",
+                språk: "latin"
+            }
+        ]
+    },
+    adduktion: {
+        ordklass: "substantiv",
+        betyder: "rörelse av en kroppsdel in mot kroppens mittlinje",
+        belagt: 1929,
+        från: [
+            {
+                ord: "adducere",
+                språk: "latin"
+            }
+        ]
+    },
+    adekvat: {
+        ordklass: "adjektiv",
+        betyder: "som motsvarar givna krav",
+        belagt: 1780,
+        från: [
+            {
+                ord: "adæquatus",
+                språk: "latin"
+            }
+        ]
+    },
+    adel: {
+        ordklass: "substantiv",
+        betyder: "samhällsklass med högsta sociala ställning och vissa ärftliga privilegier",
+        belagt: 1516,
+        från: [
+            {
+                ord: "adhel",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "adel",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    adenit: {
+        ordklass: "substantiv",
+        betyder: "inflammation i körtel",
+        belagt: 1864,
+        från: [
+            {
+                ord: "aden",
+                språk: "grekiska"
+            }
+        ]
+    },
+    adenoid: {
+        ordklass: "adjektiv",
+        betyder: "körtelliknande",
+        belagt: 1903,
+        från: [
+            {
+                ord: "aden",
+                språk: "grekiska"
+            },
+            {
+                ord: "eidos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    adenovirus: {
+        ordklass: "substantiv",
+        betyder: "ett virus som orsakar luftvägsinfektion",
+        belagt: 1994,
+        från: [
+            {
+                ord: "aden",
+                språk: "grekiska"
+            }
+        ]
+    },
+    adept: {
+        ordklass: "substantiv",
+        betyder: "(särskilt utvald) elev eller efterföljare",
+        belagt: 1842,
+        från: [
+            {
+                ord: "",
+                språk: ""
+            }
+        ]
+    },
+    aderton: {
+        ordklass: "räkneord",
+        betyder: "arton",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "adhartan",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "attartan",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    adertonde: {
+        ordklass: "räkneord",
+        betyder: "artonde",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "attartande",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "adhertande",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    adhd: {
+        ordklass: "substantiv",
+        betyder: "en funktionsnedsättning som yttrar sig i låg uthållighet, bristande koncentrationsförmåga och svårigheter att vara stilla",
+        belagt: 1996,
+        från: [
+            {
+                ord: "Attention Deficit Hyperactivity Disorder",
+                språk: "engelska"
+            }
+        ]
+    },
+    adhesion: {
+        ordklass: "substantiv",
+        betyder: "attraktionskraft mellan (molekylerna i) två kroppar i beröring med varandra",
+        belagt: 1850,
+        från: [
+            {
+                ord: "adhærere",
+                språk: "latin"
+            }
+        ]
+    },
+    adiabatisk: {
+        ordklass: "adjektiv",
+        betyder: "som sker utan värmeutbyte med omgivningen",
+        belagt: 1893,
+        från: [
+            {
+                ord: "adiabatikos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    adiafora: {
+        ordklass: "substantiv",
+        betyder: "oväsentligheter",
+        belagt: 1856,
+        från: [
+            {
+                ord: "adiaphoros",
+                språk: "grekiska"
+            }
+        ]
+    },
+    adjektiv: {
+        ordklass: "substantiv",
+        betyder: "(typ av) ord som vanligen betecknar en ofta stabil egenskap och ofta utgör bestämning till substantiv",
+        belagt: 1783,
+        från: [
+            {
+                ord: "adjectivum",
+                språk: "latin"
+            }
+        ]
+    },
+    adjungera: {
+        ordklass: "verb",
+        betyder: "tillfälligt ta upp (någon) som medlem",
+        belagt: 1723,
+        från: [
+            {
+                ord: "adjungere",
+                språk: "latin"
+            }
+        ]
+    },
+    adjunkt: {
+        ordklass: "substantiv",
+        betyder: "(titel för) ämneslärare på högre skolstadier",
+        belagt: 1661,
+        från: [
+            {
+                ord: "adjunctus",
+                språk: "latin"
+            }
+        ]
+    },
+    adjutant: {
+        ordklass: "substantiv",
+        betyder: "person med uppgift att biträda militär chef, kunglig person eller dylikt i praktiska detaljer",
+        belagt: 1689,
+        från: [
+            {
+                ord: "adjutant",
+                språk: "tyska"
+            }
+        ]
+    },
+    adjö: {
+        ordklass: "interjektion",
+        betyder: "uttryck för (definitivt) avsked",
+        belagt: "ca 1630",
+        från: [
+            {
+                ord: "à dieu",
+                språk: "franska"
+            }
+        ]
+    },
+    administratör: {
+        ordklass: "substantiv",
+        betyder: "person som (yrkesmässigt) arbetar med administration",
+        belagt: 1850,
+        från: [
+            {
+                ord: "administrateur",
+                språk: "franska"
+            }
+        ]
+    },
+    administrera: {
+        ordklass: "verb",
+        betyder: "utföra administrativt arbete (rörande)",
+        belagt: 1626,
+        från: [
+            {
+                ord: "administrare",
+                språk: "latin"
+            }
+        ]
+    },
+    adolescens: {
+        ordklass: "substantiv",
+        betyder: "period i livet när man övergår från att vara barn till att vara vuxen",
+        belagt: 1929,
+        från: [
+            {
+                ord: "adolescence",
+                språk: "engelska"
+            },
+            {
+                ord: "adolescentia",
+                språk: "latin"
+            }
+        ]
+    },
+    adonis: {
+        ordklass: "substantiv",
+        betyder: "bildskön yngling",
+        belagt: 1839,
+        från: [
+            {
+                ord: "adonis",
+                språk: "grekiska"
+            }
+        ]
+    },
+    adoptera: {
+        ordklass: "verb",
+        betyder: "formellt ta till sig som sitt barn",
+        belagt: 1716,
+        från: [
+            {
+                ord: "adoptare",
+                språk: "latin"
+            }
+        ]
+    },
+    adrenalin: {
+        ordklass: "substantiv",
+        betyder: "ett hormon vars förekomst ökar vid stress",
+        belagt: 1902,
+        från: [
+            {
+                ord: "ad",
+                språk: "latin"
+            },
+            {
+                ord: "renes",
+                språk: "latin"
+            }
+        ]
+    },
+    adress: {
+        ordklass: "substantiv",
+        betyder: "(uppgift om) platsen för någons bostad eller verksamhet",
+        belagt: 1716,
+        från: [
+            {
+                ord: "adresse",
+                språk: "franska"
+            }
+        ]
+    },
+    adsorbera: {
+        ordklass: "verb",
+        betyder: "ta upp och binda (flytande eller gasformigt ämne) på sin yta",
+        belagt: 1903,
+        från: [
+            {
+                ord: "ad sorbere",
+                språk: "latin"
+            }
+        ]
+    },
+    adstringerande: {
+        ordklass: "adjektiv",
+        betyder: "som åstadkommer sammandragning",
+        belagt: 1706,
+        från: [
+            {
+                ord: "adstringere",
+                språk: "latin"
+            }
+        ]
+    },
+    aducera: {
+        ordklass: "verb",
+        betyder: "göra (vitt gjutjärn) segt och smidigt",
+        belagt: 1774,
+        från: [
+            {
+                ord: "adoucir",
+                språk: "franska"
+            }
+        ]
+    },
+    adult: {
+        ordklass: "adjektiv",
+        betyder: "som vuxit och blivit fullt utvecklad",
+        belagt: 1946,
+        från: [
+            {
+                ord: "adultus",
+                språk: "latin"
+            }
+        ]
+    },
+    advent: {
+        ordklass: "substantiv",
+        betyder: "del av kyrkoåret (innefattande fyra söndagar) som närmast föregår julhelgen",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "advent",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "adventus",
+                språk: "latin"
+            }
+        ]
+    },
+    adventist: {
+        ordklass: "substantiv",
+        betyder: "medlem av kristet samfund som starkt förväntar Jesu återkomst",
+        belagt: 1890,
+        från: [
+            {
+                ord: "adventist",
+                språk: "engelska"
+            }
+        ]
+    },
+    adverb: {
+        ordklass: "substantiv",
+        betyder: "typ av ord som betecknar tillkommande omständigheter",
+        belagt: 1804,
+        från: [
+            {
+                ord: "adverbium",
+                språk: "latin"
+            }
+        ]
+    },
+    advers: {
+        ordklass: "substantiv",
+        betyder: "framsida av mynt eller medalj",
+        belagt: 1772,
+        från: [
+            {
+                ord: "adversus",
+                språk: "latin"
+            }
+        ]
+    },
+    adversativ: {
+        ordklass: "adjektiv",
+        betyder: "som anger motsats eller inskränkning",
+        belagt: 1820,
+        från: [
+            {
+                ord: "adversativus",
+                språk: "latin"
+            }
+        ]
+    },
+    advokat: {
+        ordklass: "substantiv",
+        betyder: "(titel för) person som yrkesmässigt utför juridiska uppdrag åt klienter",
+        belagt: 1541,
+        från: [
+            {
+                ord: "advocatus",
+                språk: "latin"
+            }
+        ]
+    },
+    aero: {
+        ordklass: "förled",
+        betyder: "som har att göra med luft",
+        belagt: 1794,
+        från: [
+            {
+                ord: "aer",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aerob: {
+        ordklass: "adjektiv",
+        betyder: "som fordrar tillgång till syre",
+        belagt: 1903,
+        från: [
+            {
+                ord: "bios",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aerodrom: {
+        ordklass: "substantiv",
+        betyder: "(land)flygplats",
+        belagt: 1910,
+        från: [
+            {
+                ord: "dromos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aerologi: {
+        ordklass: "substantiv",
+        betyder: "gren av meteorologin som studerar de högre luftlagren",
+        belagt: 1903,
+        från: [
+            {
+                ord: "logos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aeronaut: {
+        ordklass: "substantiv",
+        betyder: "flygare",
+        belagt: 1837,
+        från: [
+            {
+                ord: "nautes",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aerosol: {
+        ordklass: "substantiv",
+        betyder: "ämne i finfördelad form under tryck",
+        belagt: 1950,
+        från: [
+            {
+                ord: "aerosol",
+                språk: "engelska"
+            }
+        ]
+    },
+    aerostatik: {
+        ordklass: "substantiv",
+        betyder: "läran om gasers (särskilt luftens) jämviktsförhållanden",
+        belagt: 1871,
+        från: [
+            {
+                ord: "statos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    afasi: {
+        ordklass: "substantiv",
+        betyder: "förlust (helt eller delvis) av språkförmågan som orsakas av hjärnskada",
+        belagt: 1875,
+        från: [
+            {
+                ord: "a-",
+                språk: "grekiska"
+            },
+            {
+                ord: "phasis",
+                språk: "grekiska"
+            }
+        ]
+    },
+    affekt: {
+        ordklass: "substantiv",
+        betyder: "stark sinnesrörelse",
+        belagt: 1616,
+        från: [
+            {
+                ord: "affectus",
+                språk: "latin"
+            }
+        ]
+    },
+    affektionsvärde: {
+        ordklass: "substantiv",
+        betyder: "värde som baseras på personliga känslor och minnen",
+        belagt: 1875,
+        från: [
+            {
+                ord: "affektionswert",
+                språk: "tyska"
+            }
+        ]
+    },
+    afferent: {
+        ordklass: "adjektiv",
+        betyder: "som leder inåt",
+        belagt: 1946,
+        från: [
+            {
+                ord: "afferens",
+                språk: "latin"
+            }
+        ]
+    },
+    afficiera: {
+        ordklass: "verb",
+        betyder: "utöva (skadlig) inverkan på",
+        belagt: 1827,
+        från: [
+            {
+                ord: "afficere",
+                språk: "latin"
+            }
+        ]
+    },
+    affidavit: {
+        ordklass: "substantiv",
+        betyder: "edlig förklaring bestyrkt av myndighet",
+        belagt: 1876,
+        från: [
+            {
+                ord: "affidare",
+                språk: "latin"
+            }
+        ]
+    },
+    affin: {
+        ordklass: "adjektiv",
+        betyder: "som bevarar parallellitet",
+        belagt: 1858,
+        från: [
+            {
+                ord: "affinus",
+                språk: "latin"
+            }
+        ]
+    },
+    affinitet: {
+        ordklass: "substantiv",
+        betyder: "(grad av) inneboende överensstämmelse",
+        belagt: 1777,
+        från: [
+            {
+                ord: "affinitas",
+                språk: "latin"
+            }
+        ]
+    },
+    affirmativ: {
+        ordklass: "adjektiv",
+        betyder: "som bekräftar",
+        belagt: 1840,
+        från: [
+            {
+                ord: "affirmativus",
+                språk: "latin"
+            }
+        ]
+    },
+    affirmera: {
+        ordklass: "verb",
+        betyder: "bekräfta",
+        belagt: 1674,
+        från: [
+            {
+                ord: "affirmare",
+                språk: "latin"
+            }
+        ]
+    },
+    affisch: {
+        ordklass: "substantiv",
+        betyder: "större (illustrerat) anslag som placeras på väl synlig plats",
+        belagt: 1749,
+        från: [
+            {
+                ord: "affiche",
+                språk: "franska"
+            }
+        ]
+    },
+    affix: {
+        ordklass: "substantiv",
+        betyder: "betydelsebärande orddel som (oftast) placeras före eller efter ordets kärna",
+        belagt: 1875,
+        från: [
+            {
+                ord: "affixus",
+                språk: "latin"
+            }
+        ]
+    },
+    affrikata: {
+        ordklass: "substantiv",
+        betyder: "språkljud som utgör en följd av en klusil och en frikativ konsonant med samma artikulationsställe",
+        belagt: 1876,
+        från: [
+            {
+                ord: "affricare",
+                språk: "latin"
+            }
+        ]
+    },
+    affär: {
+        ordklass: "substantiv",
+        betyder: "lokal för försäljning",
+        belagt: 1890,
+        från: [
+            {
+                ord: "affaire",
+                språk: "franska"
+            }
+        ]
+    },
+    aflatoxin: {
+        ordklass: "substantiv",
+        betyder: "ett cancerframkallande mögelgift",
+        belagt: 1993,
+        från: [
+            {
+                ord: "aflatoxin",
+                språk: "engelska"
+            }
+        ]
+    },
+    aforism: {
+        ordklass: "substantiv",
+        betyder: "kortfattat och uttrycksfullt formulerad tanke",
+        belagt: 1843,
+        från: [
+            {
+                ord: "aphorismos",
+                språk: "franska"
+            },
+            {
+                ord: "aphorismos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    afrikaans: {
+        ordklass: "substantiv",
+        betyder: "ett språk som liknar nederländska och talas i Sydafrika",
+        belagt: 1946,
+        från: [
+            {
+                ord: "afrikaans",
+                språk: "nederländska"
+            }
+        ]
+    },
+    afrikan: {
+        ordklass: "substantiv",
+        betyder: "(mans)person från Afrika",
+        belagt: 1788,
+        från: [
+            {
+                ord: "africanus",
+                språk: "latin"
+            }
+        ]
+    },
+    afrikanisera: {
+        ordklass: "verb",
+        betyder: "göra afrikansk",
+        belagt: 1950,
+        från: [
+            {
+                ord: "africanize",
+                språk: "engelska"
+            }
+        ]
+    },
+    afroamerikan: {
+        ordklass: "substantiv",
+        betyder: "svart (manlig) amerikan",
+        belagt: 1967,
+        från: [
+            {
+                ord: "afro-american",
+                språk: "engelska"
+            }
+        ]
+    },
+    afrodisiakum: {
+        ordklass: "substantiv",
+        betyder: "medel som anses stegra könsdriften",
+        belagt: 1903,
+        från: [
+            {
+                ord: "aphrodisiakos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    afrofrisyr: {
+        ordklass: "substantiv",
+        betyder: "en frisyr med kruslockigt, burrigt hår",
+        belagt: "1970-talet",
+        från: [
+            {
+                ord: "afro haircut",
+                språk: "engelska"
+            }
+        ]
+    },
+    afte: {
+        ordklass: "substantiv",
+        betyder: "besvär som yttrar sig som små sår eller blåsor i munnen",
+        belagt: 1983,
+        från: [
+            {
+                ord: "aphthai",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aftershave: {
+        ordklass: "substantiv",
+        betyder: "rakvatten",
+        belagt: 1992,
+        från: [
+            {
+                ord: "after shave",
+                språk: "engelska"
+            }
+        ]
+    },
+    afterski: {
+        ordklass: "substantiv",
+        betyder: "aktivitet efter skidåkning",
+        belagt: "1950-talet",
+        från: [
+            {
+                ord: "after ski",
+                språk: "engelska"
+            }
+        ]
+    },
+    afterwork: {
+        ordklass: "substantiv",
+        betyder: "(tidigt) krogbesök efter avslutad arbetsdag",
+        belagt: 2000,
+        från: [
+            {
+                ord: "after work",
+                språk: "engelska"
+            }
+        ]
+    },
+    afton: {
+        ordklass: "substantiv",
+        betyder: "(tidig) kväll",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "afton",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "aftan",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    aftondräkt: {
+        ordklass: "substantiv",
+        betyder: "festklädsel",
+        belagt: 1926,
+        från: [
+            {
+                ord: "evening dress",
+                språk: "engelska"
+            }
+        ]
+    },
+    aftonsång: {
+        ordklass: "substantiv",
+        betyder: "gudstjänst med aftonbön",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "aftonsanger",
+                språk: "fornsvenska"
+            }
+        ]
     },
     MALL: {
         ordklass: "",
@@ -1089,12 +2053,17 @@ function displayWord(w) {
     var html = etym + "<h1 class=" + "word " + ">" + w + " <small class=" + "gray" + "><i>(" + words[w].belagt + ")</i></small></h1>" +
         "<p class=" + "dgray" + ">" + words[w].betyder + " <small><i><b>(" + words[w].ordklass + ")</b></i></small></p><hr>";
 
+    html += "<div id=" + "word-wrapper" + ">"
     for (let key in words) {
         if (words.hasOwnProperty(key)) {
             var id = "link-" + key;
             html += "<a href=" + "#" + " id=" + id + ">" + key + "</a> "
         }
     }
+    html += "</div>"
+
+    var count = Object.keys(words).length;
+    html += "<p>Antal ord: " + count + "</p>"
 
     etymologiDiv.innerHTML = html;
 
@@ -1165,12 +2134,28 @@ function getWordCountByLanguage() {
     return wordCountByLanguage;
 }
 
+function sortObj(obj) {
+    return Object.fromEntries(Object.entries(obj).sort((a, b) => b[1] - a[1]));
+}
+
+function filterObj(obj, min) {
+    const filteredObj = {};
+
+    for (const key in obj) {
+        if (obj.hasOwnProperty(key) && obj[key] >= min) {
+            filteredObj[key] = obj[key];
+        }
+    }
+
+    return filteredObj;
+}
+
 document.addEventListener("DOMContentLoaded", function () {
     displayWord("abakus");
 
     const diagramContainer = document.getElementById('staple-diagram');
 
-    Object.entries(getWordCountByLanguage()).forEach(([key, value]) => {
+    Object.entries(filterObj(sortObj(getWordCountByLanguage()), 4)).forEach(([key, value]) => {
         const bar = document.createElement('div');
         bar.className = 'bar';
         bar.style.height = `${value * 4}px`;

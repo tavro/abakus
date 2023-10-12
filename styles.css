@@ -27,10 +27,16 @@ body {
 
 #staple-diagram {
     display: flex;
-    justify-content: center;
     align-items: end;
     height: 50vh;
-    margin: 0;
+    margin: 0 auto;
+    max-width: 600px;
+    overflow: scroll;
+}
+
+#word-wrapper {
+    height: 10vh;
+    overflow-y: scroll;
 }
 
 .bar {

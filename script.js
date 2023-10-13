@@ -2028,6 +2028,2154 @@ var words = {
             }
         ]
     },
+    ag: {
+        ordklass: "substantiv",
+        betyder: "ett högt och grovt halvgräs med långa, breda blad",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "agh",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    aga: {
+        ordklass: "substantiv",
+        betyder: "kroppslig bestraffning",
+        belagt: "1430-50",
+        från: [
+            {
+                ord: "aghi",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    agape: {
+        ordklass: "substantiv",
+        betyder: "den självutgivande kärleken",
+        belagt: 1860,
+        från: [
+            {
+                ord: "agape",
+                språk: "grekiska"
+            }
+        ]
+    },
+    agat: {
+        ordklass: "substantiv",
+        betyder: "en prydnadssten av kvarts som är uppbyggd av tunna, olikfärgade skikt",
+        belagt: 1519,
+        från: [
+            {
+                ord: "agat",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    agave: {
+        ordklass: "substantiv",
+        betyder: "typ av stor (tropisk) växt med köttiga, taggiga blad i rosett",
+        belagt: 1815,
+        från: [
+            {
+                ord: "Agave",
+                språk: "grekiska"
+            }
+        ]
+    },
+    agenda: {
+        ordklass: "substantiv",
+        betyder: "fastställd ordning",
+        belagt: 1903,
+        från: [
+            {
+                ord: "agenda",
+                språk: "latin"
+            }
+        ]
+    },
+    agens: {
+        ordklass: "substantiv",
+        betyder: "verksam eller utlösande faktor",
+        belagt: 1850,
+        från: [
+            {
+                ord: "agens",
+                språk: "latin"
+            }
+        ]
+    },
+    agera: {
+        ordklass: "verb",
+        betyder: "aktivt ingripa",
+        belagt: 1655,
+        från: [
+            {
+                ord: "agere",
+                språk: "latin"
+            }
+        ]
+    },
+    agglomerat: {
+        ordklass: "substantiv",
+        betyder: "bergart som består av grova, kantiga vulkaniska utbrottsprodukter sammankittade av finare material",
+        belagt: 1871,
+        från: [
+            {
+                ord: "agglomerare",
+                språk: "latin"
+            }
+        ]
+    },
+    agglutinera: {
+        ordklass: "verb",
+        betyder: "klumpa ihop",
+        belagt: 1828,
+        från: [
+            {
+                ord: "agglutinare",
+                språk: "latin"
+            }
+        ]
+    },
+    aggressiv: {
+        ordklass: "adjektiv",
+        betyder: "öppet fientligt inställd",
+        belagt: 1871,
+        från: [
+            {
+                ord: "agressif",
+                språk: "franska"
+            }
+        ]
+    },
+    agility: {
+        ordklass: "substantiv",
+        betyder: "typ av hundtävling på hinderbana",
+        belagt: 1985,
+        från: [
+            {
+                ord: "agility",
+                språk: "engelska"
+            }
+        ]
+    },
+    agio: {
+        ordklass: "substantiv",
+        betyder: "skillnad mellan kursvärde och lägre nominellt värde",
+        belagt: 1739,
+        från: [
+            {
+                ord: "aggio",
+                språk: "italienska"
+            }
+        ]
+    },
+    agitator: {
+        ordklass: "substantiv",
+        betyder: "person som bedriver agitation",
+        belagt: 1852,
+        från: [
+            {
+                ord: "agitator",
+                språk: "latin"
+            }
+        ]
+    },
+    agitera: {
+        ordklass: "verb",
+        betyder: "bedriva agitation",
+        belagt: 1856,
+        från: [
+            {
+                ord: "agitare",
+                språk: "latin"
+            }
+        ]
+    },
+    agn: {
+        ordklass: "substantiv",
+        betyder: "skärm- och blomfjäll (kring frukt) hos säd, som skiljs bort vid tröskning",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "aghn",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    agnat: {
+        ordklass: "substantiv",
+        betyder: "släkting på manssidan",
+        belagt: 1686,
+        från: [
+            {
+                ord: "agnatus",
+                språk: "latin"
+            }
+        ]
+    },
+    agnosi: {
+        ordklass: "substantiv",
+        betyder: "oförmåga att känna igen och tolka syn-, hörsel- eller känselintryck",
+        belagt: 1923,
+        från: [
+            {
+                ord: "agnosia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    agnosticism: {
+        ordklass: "substantiv",
+        betyder: "en filosofisk riktning som förnekar att kunskap om tillvarons yttersta grunder är möjlig",
+        belagt: 1888,
+        från: [
+            {
+                ord: "agnostos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    agoni: {
+        ordklass: "substantiv",
+        betyder: "dödskamp",
+        belagt: 1821,
+        från: [
+            {
+                ord: "agonia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    agorafobi: {
+        ordklass: "substantiv",
+        betyder: "sjuklig rädsla för att vistas bland människor (särskilt) på stora, öppna platser",
+        belagt: 1872,
+        från: [
+            {
+                ord: "agora",
+                språk: "grekiska"
+            }
+        ]
+    },
+    agraff: {
+        ordklass: "substantiv",
+        betyder: "spänne, utfört i två delar som hakas ihop",
+        belagt: 1694,
+        från: [
+            {
+                ord: "agrafe",
+                språk: "franska"
+            }
+        ]
+    },
+    agrafi: {
+        ordklass: "substantiv",
+        betyder: "förlust (helt eller delvis) av förmågan att skriva",
+        belagt: 1875,
+        från: [
+            {
+                ord: "a-",
+                språk: "grekiska"
+            },
+            {
+                ord: "graphein",
+                språk: "grekiska"
+            }
+        ]
+    },
+    agrar: {
+        ordklass: "adjektiv",
+        betyder: "som har att göra med jordbruk",
+        belagt: 1940,
+        från: [
+            {
+                ord: "agrarius",
+                språk: "latin"
+            }
+        ]
+    },
+    agreabel: {
+        ordklass: "adjektiv",
+        betyder: "(tämligen) behaglig",
+        belagt: 1716,
+        från: [
+            {
+                ord: "agréable",
+                språk: "franska"
+            }
+        ]
+    },
+    agremang: {
+        ordklass: "substantiv",
+        betyder: "godkännande av sändebud från främmande makt",
+        belagt: 1821,
+        från: [
+            {
+                ord: "agrément",
+                språk: "franska"
+            }
+        ]
+    },
+    agrikultur: {
+        ordklass: "substantiv",
+        betyder: "jordbruk",
+        belagt: 1815,
+        från: [
+            {
+                ord: "agricultura",
+                språk: "latin"
+            }
+        ]
+    },
+    agronom: {
+        ordklass: "substantiv",
+        betyder: "(titel för) person med examen från lantbruksuniversitet eller dylikt",
+        belagt: 1840,
+        från: [
+            {
+                ord: "agronomos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    ah: {
+        ordklass: "interjektion",
+        betyder: "uttryck för förtjusning eller dylikt el. vid vädjan etc.",
+        belagt: 1420,
+        från: [
+            {
+                ord: "a",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "ah",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    aha: {
+        ordklass: "interjektion",
+        betyder: "uttryck för plötslig insikt",
+        belagt: 1801,
+        från: [
+            {
+                ord: "aha",
+                språk: "nederländska"
+            },
+            {
+                ord: "aha",
+                språk: "tyska"
+            },
+            {
+                ord: "aha",
+                språk: "engelska"
+            }
+        ]
+    },
+    aids: {
+        ordklass: "substantiv",
+        betyder: "en virussjukdom hos människan som bryter ner kroppens immunförsvar",
+        belagt: 1982,
+        från: [
+            {
+                ord: "acquired immune deficiency syndrome",
+                språk: "engelska"
+            }
+        ]
+    },
+    aikido: {
+        ordklass: "substantiv",
+        betyder: "en japansk kampsport",
+        belagt: 1989,
+        från: [
+            {
+                ord: "aikidō",
+                språk: "japanska"
+            }
+        ]
+    },
+    aioli: {
+        ordklass: "substantiv",
+        betyder: "typ av (fransk) vitlöksmajonnäs",
+        belagt: 1985,
+        från: [
+            {
+                ord: "ailloli",
+                språk: "franska"
+            }
+        ]
+    },
+    air: {
+        ordklass: "substantiv",
+        betyder: "antydd stämning",
+        belagt: 1700,
+        från: [
+            {
+                ord: "air",
+                språk: "franska"
+            }
+        ]
+    },
+    airbag: {
+        ordklass: "substantiv",
+        betyder: "krockkudde",
+        belagt: "1970-talet",
+        från: [
+            {
+                ord: "airbag",
+                språk: "engelska"
+            }
+        ]
+    },
+    airedaleterrier: {
+        ordklass: "substantiv",
+        betyder: "en stor, rostbrun terrier",
+        belagt: 1894,
+        från: [
+            {
+                ord: "airedale terrier",
+                språk: "engelska"
+            }
+        ]
+    },
+    aj: {
+        ordklass: "interjektion",
+        betyder: "uttryck för smärta, beklagande m.m.",
+        belagt: "1500-talet",
+        från: [
+            {
+                ord: "ay",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    ajour: {
+        ordklass: "adjektiv",
+        betyder: "fortlöpande underrättad om den aktuella utvecklingen",
+        belagt: 1903,
+        från: [
+            {
+                ord: "à jour",
+                språk: "franska"
+            }
+        ]
+    },
+    ajournera: {
+        ordklass: "verb",
+        betyder: "avbryta för att senare återuppta",
+        belagt: 1825,
+        från: [
+            {
+                ord: "ajourner",
+                språk: "franska"
+            }
+        ]
+    },
+    akacia: {
+        ordklass: "substantiv",
+        betyder: "typ av träd eller buske med ofta paraplyliknande grenverk",
+        belagt: 1806,
+        från: [
+            {
+                ord: "acacia",
+                språk: "latin"
+            },
+            {
+                ord: "akakia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akademi: {
+        ordklass: "substantiv",
+        betyder: "samfund med uppgift att främja vetenskaplig eller konstnärlig verksamhet",
+        belagt: 1739,
+        från: [
+            {
+                ord: "Akademeia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akant: {
+        ordklass: "substantiv",
+        betyder: "typ av hög, tistelliknande (tropisk) ört med stora, flikiga blad",
+        belagt: 1705,
+        från: [
+            {
+                ord: "akanthos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akatalektisk: {
+        ordklass: "adjektiv",
+        betyder: "som består av enbart fullständiga takter",
+        belagt: 1811,
+        från: [
+            {
+                ord: "a-",
+                språk: "grekiska"
+            },
+            {
+                ord: "katalegein",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akleja: {
+        ordklass: "substantiv",
+        betyder: "typ av ranunkelväxt med sporreförsedda blommor i olika färger",
+        belagt: 1538,
+        från: [
+            {
+                ord: "aquilegia",
+                språk: "latin"
+            }
+        ]
+    },
+    akne: {
+        ordklass: "substantiv",
+        betyder: "typ av hudsjukdom med utslag",
+        belagt: 1903,
+        från: [
+            {
+                ord: "akhne",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akribi: {
+        ordklass: "substantiv",
+        betyder: "vetenskaplig noggrannhet",
+        belagt: 1929,
+        från: [
+            {
+                ord: "akribeia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akrobat: {
+        ordklass: "substantiv",
+        betyder: "person som (yrkesmässigt) ägnar sig åt akrobatik",
+        belagt: 1850,
+        från: [
+            {
+                ord: "akrobatos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akrofobi: {
+        ordklass: "substantiv",
+        betyder: "intensiv, irrationell rädsla för höjder",
+        belagt: 1975,
+        från: [
+            {
+                ord: "akros",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akromatisk: {
+        ordklass: "adjektiv",
+        betyder: "som bryter ljuset utan färgspridning",
+        belagt: 1770,
+        från: [
+            {
+                ord: "a-",
+                språk: "grekiska"
+            },
+            {
+                ord: "khroma",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akromegali: {
+        ordklass: "substantiv",
+        betyder: "en sjukdom med onormal förstoring av vissa kroppsdelar",
+        belagt: 1903,
+        från: [
+            {
+                ord: "akros",
+                språk: "grekiska"
+            },
+            {
+                ord: "megas",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akronym: {
+        ordklass: "substantiv",
+        betyder: "förkortning som består av initialer",
+        belagt: "1960-talet",
+        från: [
+            {
+                ord: "akros",
+                språk: "grekiska"
+            },
+            {
+                ord: "onyma",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akropol: {
+        ordklass: "substantiv",
+        betyder: "befäst stadskärna",
+        belagt: 1887,
+        från: [
+            {
+                ord: "akros",
+                språk: "grekiska"
+            },
+            {
+                ord: "polis",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akrostikon: {
+        ordklass: "substantiv",
+        betyder: "dikt där versradernas begynnelsebokstäver bildar ett språkligt uttryck",
+        belagt: 1795,
+        från: [
+            {
+                ord: "akros",
+                språk: "grekiska"
+            },
+            {
+                ord: "stikhos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akryl: {
+        ordklass: "substantiv",
+        betyder: "typ av plast som bl.a. används till ylleliknande fibrer",
+        belagt: 1966,
+        från: [
+            {
+                ord: "acer",
+                språk: "latin"
+            },
+            {
+                ord: "yl",
+                språk: "latin"
+            }
+        ]
+    },
+    akrylamid: {
+        ordklass: "substantiv",
+        betyder: "ett giftigt ämne som används som råvara för framställning av tätningsmedel",
+        belagt: 1977,
+        från: [
+            {
+                ord: "acrylamide",
+                språk: "franska"
+            }
+        ]
+    },
+    akt: {
+        ordklass: "substantiv",
+        betyder: "högtidlig förrättning",
+        belagt: 1618,
+        från: [
+            {
+                ord: "actus",
+                språk: "latin"
+            }
+        ]
+    },
+    akter: {
+        ordklass: "adverb",
+        betyder: "i (riktning från eller mot) aktern",
+        belagt: 1489,
+        från: [
+            {
+                ord: "akter",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    aktie: {
+        ordklass: "substantiv",
+        betyder: "andel med fast storlek i aktiebolag",
+        belagt: 1626,
+        från: [
+            {
+                ord: "aktie",
+                språk: "tyska"
+            }
+        ]
+    },
+    aktig: {
+        ordklass: "adjektiviskt slutled",
+        betyder: "som liknar",
+        belagt: 1430,
+        från: [
+            {
+                ord: "aktogher",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "achtich",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    aktinium: {
+        ordklass: "substantiv",
+        betyder: "ett radioaktivt grundämne",
+        belagt: 1929,
+        från: [
+            {
+                ord: "aktis",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aktion: {
+        ordklass: "substantiv",
+        betyder: "aktivt ingripande",
+        belagt: 1614,
+        från: [
+            {
+                ord: "actio",
+                språk: "latin"
+            }
+        ]
+    },
+    aktiv: {
+        ordklass: "adjektiv",
+        betyder: "som deltar på ett verkningsfullt sätt",
+        belagt: 1839,
+        från: [
+            {
+                ord: "activus",
+                språk: "latin"
+            }
+        ]
+    },
+    aktivitet: {
+        ordklass: "substantiv",
+        betyder: "verksamhet som kräver aktivt deltagande",
+        belagt: 1720,
+        från: [
+            {
+                ord: "activitas",
+                språk: "senlatin"
+            }
+        ]
+    },
+    aktris: {
+        ordklass: "substantiv",
+        betyder: "skådespelerska",
+        belagt: 1744,
+        från: [
+            {
+                ord: "actrice",
+                språk: "franska"
+            }
+        ]
+    },
+    aktualisera: {
+        ordklass: "verb",
+        betyder: "göra aktuell",
+        belagt: 1861,
+        från: [
+            {
+                ord: "actualiser",
+                språk: "franska"
+            }
+        ]
+    },
+    aktuarie: {
+        ordklass: "substantiv",
+        betyder: "(titel för) tjänsteman som utför vissa statistiska beräkningar och utredningar",
+        belagt: 1694,
+        från: [
+            {
+                ord: "actuarius",
+                språk: "latin"
+            }
+        ]
+    },
+    aktuell: {
+        ordklass: "adjektiv",
+        betyder: "som (nödvändigtvis) tilldrar sig uppmärksamhet vid det givna tillfället",
+        belagt: 1871,
+        från: [
+            {
+                ord: "actuel",
+                språk: "franska"
+            }
+        ]
+    },
+    aktör: {
+        ordklass: "substantiv",
+        betyder: "manlig skådespelare",
+        belagt: 1744,
+        från: [
+            {
+                ord: "acteur",
+                språk: "franska"
+            }
+        ]
+    },
+    akupressur: {
+        ordklass: "substantiv",
+        betyder: "en (kinesisk) metod för sjukdomsbehandling genom tryck och massage av vissa punkter på kroppen",
+        belagt: 1976,
+        från: [
+            {
+                ord: "acus",
+                språk: "latin"
+            },
+            {
+                ord: "pressura",
+                språk: "latin"
+            }
+        ]
+    },
+    akupunktur: {
+        ordklass: "substantiv",
+        betyder: "en (kinesisk) metod för bedövning och behandling av sjukdomar med hjälp av instuckna nålar",
+        belagt: 1903,
+        från: [
+            {
+                ord: "acus",
+                språk: "latin"
+            },
+            {
+                ord: "punctura",
+                språk: "latin"
+            }
+        ]
+    },
+    akustik: {
+        ordklass: "substantiv",
+        betyder: "läran om ljudet som vågrörelse",
+        belagt: 1853,
+        från: [
+            {
+                ord: "akouein",
+                språk: "grekiska"
+            }
+        ]
+    },
+    akut: {
+        ordklass: "adjektiv",
+        betyder: "som (plötsligt) är mycket aktuell",
+        belagt: 1815,
+        från: [
+            {
+                ord: "acutus",
+                språk: "latin"
+            }
+        ]
+    },
+    akva: {
+        ordklass: "förled",
+        betyder: "som har att göra med vatten",
+        belagt: 1850,
+        från: [
+            {
+                ord: "aqua",
+                språk: "latin"
+            }
+        ]
+    },
+    akvamarin: {
+        ordklass: "substantiv",
+        betyder: "en genomskinlig blå ädelsten",
+        belagt: 1758,
+        från: [
+            {
+                ord: "aqua marina",
+                språk: "latin"
+            }
+        ]
+    },
+    akvaplaning: {
+        ordklass: "substantiv",
+        betyder: "vattenplaning",
+        belagt: 1968,
+        från: [
+            {
+                ord: "aquaplaning",
+                språk: "engelska"
+            }
+        ]
+    },
+    akvarell: {
+        ordklass: "substantiv",
+        betyder: "konstnärlig målning med icke täckande vattenfärg på ljus botten",
+        belagt: 1833,
+        från: [
+            {
+                ord: "acquerello",
+                språk: "italienska"
+            }
+        ]
+    },
+    akvarium: {
+        ordklass: "substantiv",
+        betyder: "vattenbehållare för mindre vattendjur och vattenväxter",
+        belagt: 1861,
+        från: [
+            {
+                ord: "aquarium",
+                språk: "latin"
+            }
+        ]
+    },
+    akvatint: {
+        ordklass: "substantiv",
+        betyder: "en etsningsmetod som ger ytor i olika valörer",
+        belagt: 1896,
+        från: [
+            {
+                ord: "acquatinta",
+                språk: "italienska"
+            }
+        ]
+    },
+    akvavit: {
+        ordklass: "substantiv",
+        betyder: "kryddat brännvin",
+        belagt: 1650,
+        från: [
+            {
+                ord: "aqua vitæ",
+                språk: "latin"
+            }
+        ]
+    },
+    akvedukt: {
+        ordklass: "substantiv",
+        betyder: "broliknande anordning som leder vatten över hinder",
+        belagt: 1686,
+        från: [
+            {
+                ord: "aquæductus",
+                språk: "latin"
+            }
+        ]
+    },
+    al: {
+        ordklass: "substantiv",
+        betyder: "typ av lövträd med små kottar",
+        belagt: 1429,
+        från: [
+            {
+                ord: "al",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    alabaster: {
+        ordklass: "substantiv",
+        betyder: "marmorliknande halvgenomskinlig gips",
+        belagt: "1487-91",
+        från: [
+            {
+                ord: "alabaster",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    aladåb: {
+        ordklass: "substantiv",
+        betyder: "(kall) maträtt som består av kött-, fisk- eller grönsaksbitar i gelé",
+        belagt: 1755,
+        från: [
+            {
+                ord: "à la daube",
+                språk: "franska"
+            }
+        ]
+    },
+    alagreck: {
+        ordklass: "substantiv",
+        betyder: "rätvinkligt slingrande ornament",
+        belagt: 1860,
+        från: [
+            {
+                ord: "à la grecque",
+                språk: "franska"
+            }
+        ]
+    },
+    alanin: {
+        ordklass: "substantiv",
+        betyder: "en aminosyra som ingår i proteiner",
+        belagt: 1929,
+        från: [
+            {
+                ord: "alanin",
+                språk: "tyska"
+            }
+        ]
+    },
+    alant: {
+        ordklass: "substantiv",
+        betyder: "en högväxande ört med stora, på undersidan gråulliga blad och gula blomkorgar",
+        belagt: "1400-talet",
+        från: [
+            {
+                ord: "aland",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "alant",
+                språk: "tyska"
+            }
+        ]
+    },
+    alarm: {
+        ordklass: "substantiv",
+        betyder: "signal som anger fara",
+        belagt: 1538,
+        från: [
+            {
+                ord: "allarme",
+                språk: "franska"
+            },
+            {
+                ord: "allarme",
+                språk: "italienska"
+            }
+        ]
+    },
+    alarmism: {
+        ordklass: "substantiv",
+        betyder: "överdrivet frammanande av olycks- och säkerhetsrisker",
+        belagt: 1991,
+        från: [
+            {
+                ord: "alarmism",
+                språk: "engelska"
+            }
+        ]
+    },
+    alba: {
+        ordklass: "substantiv",
+        betyder: "en vit långskjorta som ingår i vissa prästdräkter",
+        belagt: 1566,
+        från: [
+            {
+                ord: "albus",
+                språk: "latin"
+            }
+        ]
+    },
+    albatross: {
+        ordklass: "substantiv",
+        betyder: "typ av stormfågel med enastående förmåga att utnyttja vindarna för att förflytta sig långa sträckor",
+        belagt: 1783,
+        från: [
+            {
+                ord: "albatross",
+                språk: "engelska"
+            }
+        ]
+    },
+    albedo: {
+        ordklass: "substantiv",
+        betyder: "förhållandet mellan den mängd ljus som reflekteras och den totala ljusmängd som faller in mot en yta",
+        belagt: 1947,
+        från: [
+            {
+                ord: "albedo",
+                språk: "latin"
+            }
+        ]
+    },
+    albino: {
+        ordklass: "substantiv",
+        betyder: "varelse som lider av albinism",
+        belagt: 1788,
+        från: [
+            {
+                ord: "albino",
+                språk: "spanska"
+            }
+        ]
+    },
+    album: {
+        ordklass: "substantiv",
+        betyder: "finare samlingspärm",
+        belagt: 1864,
+        från: [
+            {
+                ord: "album",
+                språk: "latin"
+            }
+        ]
+    },
+    albumin: {
+        ordklass: "substantiv",
+        betyder: "ett enkelt protein",
+        belagt: 1805,
+        från: [
+            {
+                ord: "albumine",
+                språk: "franska"
+            }
+        ]
+    },
+    aldehyd: {
+        ordklass: "substantiv",
+        betyder: "typ av oxidationsprodukt från alkohol",
+        belagt: 1836,
+        från: [
+            {
+                ord: "alcohol dehydrogenatus",
+                språk: "nylatin"
+            }
+        ]
+    },
+    aldrig: {
+        ordklass: "adverb",
+        betyder: "inte vid någon tidpunkt",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "aldri",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "aldrigh",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    ale: {
+        ordklass: "substantiv",
+        betyder: "ett överjäst öl",
+        belagt: "1970-talet",
+        från: [
+            {
+                ord: "ale",
+                språk: "engelska"
+            }
+        ]
+    },
+    aleatorisk: {
+        ordklass: "adjektiv",
+        betyder: "som ger musikerna frihet att välja och improvisera",
+        belagt: 1859,
+        från: [
+            {
+                ord: "aleator",
+                språk: "latin"
+            }
+        ]
+    },
+    alemann: {
+        ordklass: "substantiv",
+        betyder: "person som tillhörde ett forntida germanskt stamförbund",
+        belagt: 1635,
+        från: [
+            {
+                ord: "alemanni",
+                språk: "latin"
+            }
+        ]
+    },
+    alert: {
+        ordklass: "adjektiv",
+        betyder: "snabb i uppfattning och agerande",
+        belagt: 1672,
+        från: [
+            {
+                ord: "allerta",
+                språk: "franska"
+            },
+            {
+                ord: "allerta",
+                språk: "italienska"
+            }
+        ]
+    },
+    alerten: {
+        ordklass: "substantiv",
+        betyder: "vara uppmärksam",
+        belagt: 1885,
+        från: [
+            {
+                ord: "on the alert",
+                språk: "engelska"
+            }
+        ]
+    },
+    alexandrin: {
+        ordklass: "substantiv",
+        betyder: "ett (äldre) versmått med sexfotade jambiska versrader",
+        belagt: 1801,
+        från: [
+            {
+                ord: "alexandrin",
+                språk: "franska"
+            }
+        ]
+    },
+    alexi: {
+        ordklass: "substantiv",
+        betyder: "förlust av förmågan att läsa",
+        belagt: 1903,
+        från: [
+            {
+                ord: "a-",
+                språk: "grekiska"
+            },
+            {
+                ord: "lexis",
+                språk: "grekiska"
+            }
+        ]
+    },
+    alf: {
+        ordklass: "substantiv",
+        betyder: "ett manligt naturväsen i nordisk mytologi",
+        belagt: 1747,
+        från: [
+            {
+                ord: "alfr",
+                språk: "isländska"
+            }
+        ]
+    },
+    alfa: {
+        ordklass: "substantiv",
+        betyder: "första bokstaven i grekiska alfabetet",
+        belagt: 1510,
+        från: [
+            {
+                ord: "alfa",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "alpha",
+                språk: "grekiska"
+            }
+        ]
+    },
+    alfabet: {
+        ordklass: "substantiv",
+        betyder: "total uppsättning bokstäver (i bestämd ordningsföljd)",
+        belagt: 1753,
+        från: [
+            {
+                ord: "alphabetum",
+                språk: "latin"
+            }
+        ]
+    },
+    alfalfa: {
+        ordklass: "substantiv",
+        betyder: "en blåblommig lusernväxt",
+        belagt: 1903,
+        från: [
+            {
+                ord: "alfalfa",
+                språk: "spanska"
+            }
+        ]
+    },
+    alfanumerisk: {
+        ordklass: "adjektiv",
+        betyder: "som innehåller både bokstäver och siffror",
+        belagt: 1963,
+        från: [
+            {
+                ord: "alphanumeric",
+                språk: "engelska"
+            }
+        ]
+    },
+    alg: {
+        ordklass: "substantiv",
+        betyder: "(typ av) en- eller flercellig, huvudsakligen vattenlevande bålväxt som innehåller klorofyll",
+        belagt: 1520,
+        från: [
+            {
+                ord: "alga",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "alga",
+                språk: "latin"
+            }
+        ]
+    },
+    algebra: {
+        ordklass: "substantiv",
+        betyder: "räkning med abstrakta symboler",
+        belagt: 1643,
+        från: [
+            {
+                ord: "algebra",
+                språk: "medeltidslatin"
+            }
+        ]
+    },
+    algi: {
+        ordklass: "substantiviskt slutled",
+        betyder: "smärta",
+        belagt: 1904,
+        från: [
+            {
+                ord: "algos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    algologi: {
+        ordklass: "substantiv",
+        betyder: "läran om smärtlindring",
+        belagt: "1990-talet",
+        från: [
+            {
+                ord: "algos",
+                språk: "grekiska"
+            },
+            {
+                ord: "logos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    algonk: {
+        ordklass: "substantiv",
+        betyder: "en tidig geologisk era som inföll före kambrium",
+        belagt: 1903,
+        från: [
+            {
+                ord: "algonquin",
+                språk: "franska"
+            }
+        ]
+    },
+    algoritm: {
+        ordklass: "substantiv",
+        betyder: "instruktionsföljd för lösning av problem",
+        belagt: 1903,
+        från: [
+            {
+                ord: "algorithm",
+                språk: "engelska"
+            },
+            {
+                ord: "algorismus",
+                språk: "medeltidslatin"
+            }
+        ]
+    },
+    alias: {
+        ordklass: "adverb",
+        betyder: "även kallad",
+        belagt: 1652,
+        från: [
+            {
+                ord: "alias",
+                språk: "latin"
+            }
+        ]
+    },
+    alibi: {
+        ordklass: "substantiv",
+        betyder: "faktum som bevisar att en person inte kan ha begått ett visst brott",
+        belagt: 1856,
+        från: [
+            {
+                ord: "alibi",
+                språk: "latin"
+            }
+        ]
+    },
+    alienera: {
+        ordklass: "verb",
+        betyder: "skapa alienation hos",
+        belagt: 1658,
+        från: [
+            {
+                ord: "alienate",
+                språk: "engelska"
+            }
+        ]
+    },
+    alifatisk: {
+        ordklass: "adjektiv",
+        betyder: "som har öppna eller ringformiga molekylstrukturer",
+        belagt: 1903,
+        från: [
+            {
+                ord: "aleiphar",
+                språk: "grekiska"
+            }
+        ]
+    },
+    alika: {
+        ordklass: "substantiv",
+        betyder: "kaja",
+        belagt: 1751,
+        från: [
+            {
+                ord: "alleke",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    alimentär: {
+        ordklass: "adjektiv",
+        betyder: "som har att göra med födan",
+        belagt: 1862,
+        från: [
+            {
+                ord: "alimentarius",
+                språk: "latin"
+            }
+        ]
+    },
+    alisarin: {
+        ordklass: "substantiv",
+        betyder: "ett rött färgämne",
+        belagt: 1828,
+        från: [
+            {
+                ord: "alizarine",
+                språk: "franska"
+            }
+        ]
+    },
+    alkali: {
+        ordklass: "substantiv",
+        betyder: "karbonat eller hydroxid av alkalimetall",
+        belagt: 1520,
+        från: [
+            {
+                ord: "alkali",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "al-qaliy",
+                språk: "arabiska"
+            }
+        ]
+    },
+    alkanna: {
+        ordklass: "substantiv",
+        betyder: "en strävbladig växt",
+        belagt: 1875,
+        från: [
+            {
+                ord: "alchanna",
+                språk: "medeltidslatin"
+            }
+        ]
+    },
+    alkemi: {
+        ordklass: "substantiv",
+        betyder: "kemi på förvetenskapligt stadium",
+        belagt: 1621,
+        från: [
+            {
+                ord: "alkemi",
+                språk: "medeltidslatin"
+            },
+            {
+                ord: "al-kimiya",
+                språk: "arabiska"
+            }
+        ]
+    },
+    alkemist: {
+        ordklass: "substantiv",
+        betyder: "person som ägnar sig åt alkemi",
+        belagt: 1519,
+        från: [
+            {
+                ord: "alkimist",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    alkohol: {
+        ordklass: "substantiv",
+        betyder: "en färglös vätska som ingår som den verksamma beståndsdelen i rusdrycker",
+        belagt: 1808,
+        från: [
+            {
+                ord: "alcohol",
+                språk: "medeltidslatin"
+            }
+        ]
+    },
+    alkov: {
+        ordklass: "substantiv",
+        betyder: "liten, avgränsad del av rum",
+        belagt: 1745,
+        från: [
+            {
+                ord: "alcôve",
+                språk: "franska"
+            }
+        ]
+    },
+    all: {
+        ordklass: "pronomen",
+        betyder: "hela mängden av",
+        belagt: "800-talet",
+        från: [
+            {
+                ord: "alu",
+                språk: "runform"
+            },
+            {
+                ord: "alan",
+                språk: "runform"
+            },
+            {
+                ord: "alder",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "aller",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allround: {
+        ordklass: "adjektiv",
+        betyder: "som behärskar eller omfattar (vitt) skilda områden",
+        belagt: 1923,
+        från: [
+            {
+                ord: "all round",
+                språk: "engelska"
+            }
+        ]
+    },
+    allaredan: {
+        ordklass: "adverb",
+        betyder: "redan",
+        belagt: 1400,
+        från: [
+            {
+                ord: "alla redho",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "alloreedha",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    alldeles: {
+        ordklass: "adverb",
+        betyder: "i hög grad",
+        belagt: 1350,
+        från: [
+            {
+                ord: "aldeles",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allé: {
+        ordklass: "substantiv",
+        betyder: "gata eller väg som kantas av planterade träd",
+        belagt: 1663,
+        från: [
+            {
+                ord: "allée",
+                språk: "franska"
+            }
+        ]
+    },
+    allegat: {
+        ordklass: "substantiv",
+        betyder: "handling eller kvitto som bekräftar ekonomisk transaktion",
+        belagt: 1769,
+        från: [
+            {
+                ord: "allegare",
+                språk: "latin"
+            }
+        ]
+    },
+    allegori: {
+        ordklass: "substantiv",
+        betyder: "berättelse eller bildframställning vars olika detaljer har en dold innebörd",
+        belagt: 1635,
+        från: [
+            {
+                ord: "allegoria",
+                språk: "grekiska"
+            }
+        ]
+    },
+    allegretto: {
+        ordklass: "adverb",
+        betyder: "i relativt livligt tempo",
+        belagt: 1802,
+        från: [
+            {
+                ord: "allegretto",
+                språk: "italienska"
+            }
+        ]
+    },
+    allegro: {
+        ordklass: "adverb",
+        betyder: "i raskt tempo",
+        belagt: 1780,
+        från: [
+            {
+                ord: "allegro",
+                språk: "italienska"
+            }
+        ]
+    },
+    allehanda: {
+        ordklass: "adjektiv",
+        betyder: "som är av diverse olika slag",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "allra handa",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "alla handa",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allena: {
+        ordklass: "adjektiv",
+        betyder: "som är utan sällskap av någon annan",
+        belagt: 1430,
+        från: [
+            {
+                ord: "allena",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "allene",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    allenast: {
+        ordklass: "adverb",
+        betyder: "endast",
+        belagt: "1472-86",
+        från: [
+            {
+                ord: "allenast",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allergen: {
+        ordklass: "adjektiv",
+        betyder: "som framkallar allergi",
+        belagt: 1959,
+        från: [
+            {
+                ord: "-genes",
+                språk: "grekiska"
+            }
+        ]
+    },
+    allergi: {
+        ordklass: "substantiv",
+        betyder: "överkänslighet för visst ämne",
+        belagt: 1923,
+        från: [
+            {
+                ord: "allos",
+                språk: "grekiska"
+            },
+            {
+                ord: "ergon",
+                språk: "grekiska"
+            }
+        ]
+    },
+    allergologi: {
+        ordklass: "substantiv",
+        betyder: "läran om allergiska sjukdomar",
+        belagt: 1961,
+        från: [
+            {
+                ord: "logos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    allernådigst: {
+        ordklass: "adverb",
+        betyder: "i sin stora nåd",
+        belagt: 1803,
+        från: [
+            {
+                ord: "allergnädigst",
+                språk: "tyska"
+            }
+        ]
+    },
+    allesammans: {
+        ordklass: "pronomen",
+        betyder: "alla (tillsammans)",
+        belagt: 1346,
+        från: [
+            {
+                ord: "alle saman",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allestädes: {
+        ordklass: "adverb",
+        betyder: "överallt",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "alla städis",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allfader: {
+        ordklass: "substantiv",
+        betyder: "högsta (eller enda) gudom",
+        belagt: 1710,
+        från: [
+            {
+                ord: "alfaðir",
+                språk: "isländska"
+            }
+        ]
+    },
+    allfarväg: {
+        ordklass: "substantiv",
+        betyder: "mycket trafikerad väg",
+        belagt: 1790,
+        från: [
+            {
+                ord: "aþal",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allhelgonadag: {
+        ordklass: "substantiv",
+        betyder: "dag i kyrkoåret den 1 november",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "alla hælghuna dagher",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allians: {
+        ordklass: "substantiv",
+        betyder: "(avtal om) organiserat samarbete",
+        belagt: 1631,
+        från: [
+            {
+                ord: "alliance",
+                språk: "franska"
+            }
+        ]
+    },
+    alligator: {
+        ordklass: "substantiv",
+        betyder: "typ av krokodilliknande kräldjur med bred, platt nos",
+        belagt: 1788,
+        från: [
+            {
+                ord: "alligator",
+                språk: "engelska"
+            },
+            {
+                ord: "al lagarto",
+                språk: "spanska"
+            }
+        ]
+    },
+    allitteration: {
+        ordklass: "substantiv",
+        betyder: "typ av rim som innebär att tryckstarka ord som står nära varandra börjar på vokal eller samma konsonant",
+        belagt: 1773,
+        från: [
+            {
+                ord: "allittération",
+                språk: "franska"
+            }
+        ]
+    },
+    allmakt: {
+        ordklass: "substantiv",
+        betyder: "oinskränkt (gudomlig) makt",
+        belagt: 1658,
+        från: [
+            {
+                ord: "allmacht",
+                språk: "tyska"
+            }
+        ]
+    },
+    allmoge: {
+        ordklass: "substantiv",
+        betyder: "bondebefolkning",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "allmoghe",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allmosa: {
+        ordklass: "substantiv",
+        betyder: "nådigt utdelad gåva",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "almosa",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "eleemosyne",
+                språk: "grekiska"
+            }
+        ]
+    },
+    allmän: {
+        ordklass: "adjektiv",
+        betyder: "som omfattar (nästan) alla i viss grupp",
+        belagt: 1420,
+        från: [
+            {
+                ord: "almän",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "almen",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    allmänhet: {
+        ordklass: "substantiv",
+        betyder: "de flesta medborgarna",
+        belagt: 1508,
+        från: [
+            {
+                ord: "almännehet",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allmännelig: {
+        ordklass: "adjektiv",
+        betyder: "som omfattar alla",
+        belagt: 1285,
+        från: [
+            {
+                ord: "almänneliker",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allmänning: {
+        ordklass: "substantiv",
+        betyder: "gemensamt ägd mark",
+        belagt: 1225,
+        från: [
+            {
+                ord: "almänninger",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allofon: {
+        ordklass: "substantiv",
+        betyder: "variant av fonem",
+        belagt: 1968,
+        från: [
+            {
+                ord: "allos",
+                språk: "grekiska"
+            },
+            {
+                ord: "phone",
+                språk: "grekiska"
+            }
+        ]
+    },
+    allograf: {
+        ordklass: "substantiv",
+        betyder: "variant av grafem",
+        belagt: "1960-talet",
+        från: [
+            {
+                ord: "allos",
+                språk: "grekiska"
+            },
+            {
+                ord: "graphein",
+                språk: "grekiska"
+            }
+        ]
+    },
+    allokera: {
+        ordklass: "verb",
+        betyder: "rationellt fördela",
+        belagt: 1952,
+        från: [
+            {
+                ord: "allocate",
+                språk: "engelska"
+            }
+        ]
+    },
+    allokton: {
+        ordklass: "adjektiv",
+        betyder: "som inte har sitt ursprung på sin nuvarande plats",
+        belagt: 1903,
+        från: [
+            {
+                ord: "allos",
+                språk: "grekiska"
+            },
+            {
+                ord: "khthon",
+                språk: "grekiska"
+            }
+        ]
+    },
+    allomorf: {
+        ordklass: "substantiv",
+        betyder: "variant av morfem",
+        belagt: 1956,
+        från: [
+            {
+                ord: "allos",
+                språk: "grekiska"
+            },
+            {
+                ord: "morphe",
+                språk: "grekiska"
+            }
+        ]
+    },
+    allongeperuk: {
+        ordklass: "substantiv",
+        betyder: "peruk med långa nedhängande korkskruvslockar",
+        belagt: 1733,
+        från: [
+            {
+                ord: "allonge",
+                språk: "franska"
+            }
+        ]
+    },
+    allra: {
+        ordklass: "adverb",
+        betyder: "absolut",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "aldra",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    alls: {
+        ordklass: "adverb",
+        betyder: "över huvud taget",
+        belagt: 1420,
+        från: [
+            {
+                ord: "alz",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allsköns: {
+        ordklass: "adjektiv",
+        betyder: "som är av diverse skilda slag",
+        belagt: "1420-50",
+        från: [
+            {
+                ord: "alskyns",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "alzsköns",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allsmäktig: {
+        ordklass: "adjektiv",
+        betyder: "som har oinskränkt makt",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "alzmäktogher",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allsvåldig: {
+        ordklass: "adjektiv",
+        betyder: "allsmäktig",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "alzvaldogher",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allsång: {
+        ordklass: "substantiv",
+        betyder: "gemensam, enstämmig sång",
+        belagt: 1927,
+        från: [
+            {
+                ord: "community singing",
+                språk: "engelska"
+            }
+        ]
+    },
+    allt: {
+        ordklass: "adverb",
+        betyder: "i förändring undan för undan i riktning mot",
+        belagt: 1385,
+        från: [
+            {
+                ord: "alt",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    alltför: {
+        ordklass: "adverb",
+        betyder: "i högre grad än önskvärt",
+        belagt: "1430-50",
+        från: [
+            {
+                ord: "alt fore",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    alltid: {
+        ordklass: "adverb",
+        betyder: "vid varje tillfälle (av betydelse)",
+        belagt: 1385,
+        från: [
+            {
+                ord: "altidh",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    allting: {
+        ordklass: "pronomen",
+        betyder: "hela mängden",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "al þing",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    alltjämt: {
+        ordklass: "adverb",
+        betyder: "fortfarande",
+        belagt: 1484,
+        från: [
+            {
+                ord: "alt iämpt",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    alltsamman: {
+        ordklass: "pronomen",
+        betyder: "hela mängden",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "alt saman",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    alludera: {
+        ordklass: "verb",
+        betyder: "medvetet väcka föreställning om",
+        belagt: 1716,
+        från: [
+            {
+                ord: "alludere",
+                språk: "latin"
+            }
+        ]
+    },
+    alluvium: {
+        ordklass: "substantiv",
+        betyder: "lösa jordarter som bildats i den geologiska nutiden",
+        belagt: 1840,
+        från: [
+            {
+                ord: "alluvium",
+                språk: "latin"
+            }
+        ]
+    },
+    allvar: {
+        ordklass: "substantiv",
+        betyder: "uppriktig själslig inriktning på väsentligheter",
+        belagt: "1320-50",
+        från: [
+            {
+                ord: "alvar",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "al war",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    allvarlig: {
+        ordklass: "adjektiv",
+        betyder: "fylld av själsligt allvar",
+        belagt: "1420-50",
+        från: [
+            {
+                ord: "alvarliker",
+                språk: "fornsvenska"
+            }
+        ]
+    },
     MALL: {
         ordklass: "",
         betyder: "",

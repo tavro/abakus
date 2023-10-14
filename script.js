@@ -4176,6 +4176,3091 @@ var words = {
             }
         ]
     },
+    almanacka: {
+        ordklass: "substantiv",
+        betyder: "häfte eller dylikt med överskådlig förteckning över årets dagar",
+        belagt: 1540,
+        från: [
+            {
+                ord: "almanachus",
+                språk: "medeltidslatin"
+            },
+            {
+                ord: "almenikhiaka",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aln: {
+        ordklass: "substantiv",
+        betyder: "ett längdmått som motsvarar två fot",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "aln",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "alin",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    aloe: {
+        ordklass: "substantiv",
+        betyder: "typ av (sub)tropisk liljeväxt med köttiga, ofta taggiga blad",
+        belagt: 1520,
+        från: [
+            {
+                ord: "aloe",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "aloe",
+                språk: "grekiska"
+            }
+        ]
+    },
+    alp: {
+        ordklass: "substantiv",
+        betyder: "hög svårtillgänglig bergstopp",
+        belagt: 1815,
+        från: [
+            {
+                ord: "die alpen",
+                språk: "tyska"
+            }
+        ]
+    },
+    alpacka: {
+        ordklass: "substantiv",
+        betyder: "ett tamt lamadjur med lång, silkeslen ull",
+        belagt: 1847,
+        från: [
+            {
+                ord: "alpaca",
+                språk: "spanska"
+            }
+        ]
+    },
+    alruna: {
+        ordklass: "substantiv",
+        betyder: "en potatisväxt med rotstock som liknar en människa",
+        belagt: 1659,
+        från: [
+            {
+                ord: "alraune",
+                språk: "tyska"
+            }
+        ]
+    },
+    alster: {
+        ordklass: "substantiv",
+        betyder: "produkt",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "alster",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    alt: {
+        ordklass: "substantiv",
+        betyder: "kvinno- eller gossröst i det djupaste stämläget",
+        belagt: 1697,
+        från: [
+            {
+                ord: "alto",
+                språk: "italienska"
+            }
+        ]
+    },
+    altan: {
+        ordklass: "substantiv",
+        betyder: "öppen utbyggnad eller terrass på hus",
+        belagt: 1620,
+        från: [
+            {
+                ord: "altana",
+                språk: "tyska"
+            },
+            {
+                ord: "altana",
+                språk: "italienska"
+            }
+        ]
+    },
+    altarbrun: {
+        ordklass: "substantiv",
+        betyder: "textil bård längs ett altares framsida",
+        belagt: 1346,
+        från: [
+            {
+                ord: "altara brun",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    altare: {
+        ordklass: "substantiv",
+        betyder: "bordsliknande anordning för handling som ingår i religiös kult",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "altare",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "altare",
+                språk: "latin"
+            }
+        ]
+    },
+    altea: {
+        ordklass: "substantiv",
+        betyder: "typ av ört med stora blommor och flikiga, filtaktiga blad",
+        belagt: 1796,
+        från: [
+            {
+                ord: "althainein",
+                språk: "grekiska"
+            }
+        ]
+    },
+    alteration: {
+        ordklass: "substantiv",
+        betyder: "bestörtning",
+        belagt: 1655,
+        från: [
+            {
+                ord: "altération",
+                språk: "franska"
+            }
+        ]
+    },
+    altererad: {
+        ordklass: "adjektiv",
+        betyder: "upprörd och förvirrad",
+        belagt: 1780,
+        från: [
+            {
+                ord: "alterare",
+                språk: "latin"
+            }
+        ]
+    },
+    alternera: {
+        ordklass: "verb",
+        betyder: "omväxla",
+        belagt: 1692,
+        från: [
+            {
+                ord: "alternare",
+                språk: "latin"
+            }
+        ]
+    },
+    altitud: {
+        ordklass: "substantiv",
+        betyder: "en himlakropps höjd (i grader) över horisonten",
+        belagt: 1777,
+        från: [
+            {
+                ord: "altitudo",
+                språk: "latin"
+            }
+        ]
+    },
+    altmeister: {
+        ordklass: "substantiv",
+        betyder: "(vördad) äldre mästare",
+        belagt: 1882,
+        från: [
+            {
+                ord: "altmeister",
+                språk: "tyska"
+            }
+        ]
+    },
+    altruism: {
+        ordklass: "substantiv",
+        betyder: "det att sätta andras intressen framför sina egna",
+        belagt: 1884,
+        från: [
+            {
+                ord: "altruisme",
+                språk: "franska"
+            }
+        ]
+    },
+    aluminera: {
+        ordklass: "verb",
+        betyder: "överdra (metallföremål eller dylikt) med ett skikt av aluminium",
+        belagt: 1929,
+        från: [
+            {
+                ord: "alumen",
+                språk: "latin"
+            }
+        ]
+    },
+    aluminium: {
+        ordklass: "substantiv",
+        betyder: "ett silverglänsande metalliskt grundämne",
+        belagt: 1820,
+        från: [
+            {
+                ord: "alumen",
+                språk: "latin"
+            }
+        ]
+    },
+    alumn: {
+        ordklass: "substantiv",
+        betyder: "lärjunge eller skyddsling",
+        belagt: 1835,
+        från: [
+            {
+                ord: "alumnus",
+                språk: "latin"
+            }
+        ]
+    },
+    alun: {
+        ordklass: "substantiv",
+        betyder: "ett dubbelsalt av kalium och aluminium",
+        belagt: "1400-talet",
+        från: [
+            {
+                ord: "alun",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "alumen",
+                språk: "latin"
+            }
+        ]
+    },
+    alf: {
+        ordklass: "substantiv",
+        betyder: "ett manligt naturväsen i nordisk mytologi",
+        belagt: 1747,
+        från: [
+            {
+                ord: "alfr",
+                språk: "isländska"
+            }
+        ]
+    },
+    alv: {
+        ordklass: "substantiv",
+        betyder: "ett manligt naturväsen i nordisk mytologi",
+        belagt: 1747,
+        från: [
+            {
+                ord: "alfr",
+                språk: "isländska"
+            }
+        ]
+    },
+    alveol: {
+        ordklass: "substantiv",
+        betyder: "hålighet i organisk vävnad",
+        belagt: 1875,
+        från: [
+            {
+                ord: "alveolus",
+                språk: "franska"
+            },
+            {
+                ord: "alveolus",
+                språk: "latin"
+            }
+        ]
+    },
+    amalgam: {
+        ordklass: "substantiv",
+        betyder: "en relativt mjuk kvicksilverlegering",
+        belagt: 1520,
+        från: [
+            {
+                ord: "amalgama",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "amalgama",
+                språk: "medeltidslatin"
+            }
+        ]
+    },
+    amanuens: {
+        ordklass: "substantiv",
+        betyder: "(titel för) tjänsteman i början av karriären vid ämbetsverk eller institution",
+        belagt: 1730,
+        från: [
+            {
+                ord: "amanuensis",
+                språk: "latin"
+            }
+        ]
+    },
+    amarant: {
+        ordklass: "substantiv",
+        betyder: "typ av (tropisk) växt med blommor i täta gyttringar",
+        belagt: 1736,
+        från: [
+            {
+                ord: "amarantos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amason: {
+        ordklass: "substantiv",
+        betyder: "fysiskt mycket stark kvinna",
+        belagt: 1805,
+        från: [
+            {
+                ord: "amazon",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amatör: {
+        ordklass: "substantiv",
+        betyder: "icke yrkesmässig utövare",
+        belagt: 1780,
+        från: [
+            {
+                ord: "amateur",
+                språk: "franska"
+            }
+        ]
+    },
+    ambassad: {
+        ordklass: "substantiv",
+        betyder: "ett lands högsta diplomatiska representation i ett annat land",
+        belagt: 1650,
+        från: [
+            {
+                ord: "ambassade",
+                språk: "franska"
+            }
+        ]
+    },
+    ambassadör: {
+        ordklass: "substantiv",
+        betyder: "(titel för) chef för ambassad",
+        belagt: 1532,
+        från: [
+            {
+                ord: "ambassadeur",
+                språk: "franska"
+            }
+        ]
+    },
+    ambient: {
+        ordklass: "substantiv",
+        betyder: "en typ av lugn elektronisk musik",
+        belagt: 1991,
+        från: [
+            {
+                ord: "ambient (music)",
+                språk: "engelska"
+            }
+        ]
+    },
+    ambiguitet: {
+        ordklass: "substantiv",
+        betyder: "förekomst av två eller flera olika betydelser hos ett ord eller ett yttrande",
+        belagt: 1972,
+        från: [
+            {
+                ord: "ambiguitas",
+                språk: "latin"
+            }
+        ]
+    },
+    ambiofoni: {
+        ordklass: "substantiv",
+        betyder: "en stereofonisk teknik",
+        belagt: 1973,
+        från: [
+            {
+                ord: "ambi",
+                språk: "latin"
+            },
+            {
+                ord: "phone",
+                språk: "grekiska"
+            }
+        ]
+    },
+    ambition: {
+        ordklass: "substantiv",
+        betyder: "medveten inriktning på att nå ett mål",
+        belagt: 1660,
+        från: [
+            {
+                ord: "ambitio",
+                språk: "franska"
+            },
+            {
+                ord: "ambitio",
+                språk: "latin"
+            }
+        ]
+    },
+    ambitiös: {
+        ordklass: "adjektiv",
+        betyder: "full av ambition",
+        belagt: 1723,
+        från: [
+            {
+                ord: "ambitieux",
+                språk: "franska"
+            }
+        ]
+    },
+    ambivalent: {
+        ordklass: "adjektiv",
+        betyder: "som präglas av ambivalens",
+        belagt: 1946,
+        från: [
+            {
+                ord: "ambivalens",
+                språk: "latin"
+            }
+        ]
+    },
+    ambo: {
+        ordklass: "substantiv",
+        betyder: "typ av talarstol i kyrka",
+        belagt: 1947,
+        från: [
+            {
+                ord: "ambon",
+                språk: "grekiska"
+            }
+        ]
+    },
+    ambra: {
+        ordklass: "substantiv",
+        betyder: "ett väldoftande, gråbrunt, vaxliknande ämne som används i parfymer",
+        belagt: 1519,
+        från: [
+            {
+                ord: "ambra",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "ambra",
+                språk: "medeltidslatin"
+            },
+            {
+                ord: "anbar",
+                språk: "arabiska"
+            }
+        ]
+    },
+    ambrosia: {
+        ordklass: "substantiv",
+        betyder: "gudarnas föda",
+        belagt: 1673,
+        från: [
+            {
+                ord: "ambrosia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    ambulans: {
+        ordklass: "substantiv",
+        betyder: "större bil för snabb transport av sjuka eller skadade till sjukhus",
+        belagt: 1837,
+        från: [
+            {
+                ord: "ambulance",
+                språk: "franska"
+            }
+        ]
+    },
+    ambulera: {
+        ordklass: "verb",
+        betyder: "ständigt växla plats för sin verksamhet",
+        belagt: 1768,
+        från: [
+            {
+                ord: "ambulare",
+                språk: "latin"
+            }
+        ]
+    },
+    amen: {
+        ordklass: "interjektion",
+        betyder: "slutord i kristen bön",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "amen",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "amen",
+                språk: "hebreiska"
+            }
+        ]
+    },
+    amenorré: {
+        ordklass: "substantiv",
+        betyder: "utebliven menstruation",
+        belagt: 1947,
+        från: [
+            {
+                ord: "amenorrhoea",
+                språk: "latin"
+            }
+        ]
+    },
+    ametist: {
+        ordklass: "substantiv",
+        betyder: "en purpur- till violettfärgad variant av kvarts",
+        belagt: "1430-50",
+        från: [
+            {
+                ord: "amatist",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "amethystos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amfibie: {
+        ordklass: "substantiv",
+        betyder: "djur som kan leva både på land och i vatten",
+        belagt: 1745,
+        från: [
+            {
+                ord: "amfi",
+                språk: "grekiska"
+            },
+            {
+                ord: "bios",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amfibolit: {
+        ordklass: "substantiv",
+        betyder: "en svartgrön bergart",
+        belagt: 1855,
+        från: [
+            {
+                ord: "amfibolos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amfiteater: {
+        ordklass: "substantiv",
+        betyder: "(utomhus)scen omgiven av terrassformigt ordnade åskådarbänkar",
+        belagt: 1654,
+        från: [
+            {
+                ord: "amfitheatron",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amfora: {
+        ordklass: "substantiv",
+        betyder: "större tvåörad kruka med smäcker form",
+        belagt: 1871,
+        från: [
+            {
+                ord: "amphora",
+                språk: "latin"
+            },
+            {
+                ord: "amphoreus",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amid: {
+        ordklass: "substantiv",
+        betyder: "typ av kemisk förening som är härledd från ammoniak",
+        belagt: 1833,
+        från: [
+            {
+                ord: "amide",
+                språk: "franska"
+            }
+        ]
+    },
+    amiral: {
+        ordklass: "substantiv",
+        betyder: "(titel för) högste befälhavare över (större del av) ett lands marina stridskrafter",
+        belagt: 1517,
+        från: [
+            {
+                ord: "ameral",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "amir ar-rahl",
+                språk: "arabiska"
+            }
+        ]
+    },
+    amma: {
+        ordklass: "verb",
+        betyder: "låta (spädbarn) suga mjölk från bröstet",
+        belagt: 1502,
+        från: [
+            {
+                ord: "amma",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    ammoniak: {
+        ordklass: "substantiv",
+        betyder: "en färglös gas med stickande lukt",
+        belagt: 1808,
+        från: [
+            {
+                ord: "ammoniacum",
+                språk: "medeltidslatin"
+            }
+        ]
+    },
+    ammonit: {
+        ordklass: "substantiv",
+        betyder: "typ av (utdöd) bläckfisk med dekorativt, ofta spiralformat ytterskal",
+        belagt: 1747,
+        från: [
+            {
+                ord: "cornu ammonis",
+                språk: "latin"
+            }
+        ]
+    },
+    ammunition: {
+        ordklass: "substantiv",
+        betyder: "material för laddning av eldvapen",
+        belagt: 1658,
+        från: [
+            {
+                ord: "la munition",
+                språk: "franska"
+            }
+        ]
+    },
+    amnesi: {
+        ordklass: "substantiv",
+        betyder: "minnesförlust",
+        belagt: 1871,
+        från: [
+            {
+                ord: "amnesia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amnesti: {
+        ordklass: "substantiv",
+        betyder: "(allmänt) efterskänkande av straff eller åtal",
+        belagt: 1635,
+        från: [
+            {
+                ord: "amnestia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amok: {
+        ordklass: "substantiv",
+        betyder: "besinningslöst raseri",
+        belagt: 1903,
+        från: [
+            {
+                ord: "amok",
+                språk: "malajiska"
+            }
+        ]
+    },
+    amontillado: {
+        ordklass: "substantiv",
+        betyder: "en torr sherry",
+        belagt: 1947,
+        från: [
+            {
+                ord: "amontillado",
+                språk: "spanska"
+            }
+        ]
+    },
+    amorbåge: {
+        ordklass: "substantiv",
+        betyder: "överläppens övre kontur",
+        belagt: 1935,
+        från: [
+            {
+                ord: "amor",
+                språk: "latin"
+            }
+        ]
+    },
+    amorf: {
+        ordklass: "adjektiv",
+        betyder: "som saknar form och struktur",
+        belagt: 1865,
+        från: [
+            {
+                ord: "amorphos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amorin: {
+        ordklass: "substantiv",
+        betyder: "kärleksgud i barngestalt",
+        belagt: 1815,
+        från: [
+            {
+                ord: "amorino",
+                språk: "italienska"
+            }
+        ]
+    },
+    amoroso: {
+        ordklass: "adverb",
+        betyder: "(att spelas) ömt och kärleksfullt",
+        belagt: 1802,
+        från: [
+            {
+                ord: "amoroso",
+                språk: "italienska"
+            }
+        ]
+    },
+    amortera: {
+        ordklass: "verb",
+        betyder: "betala tillbaka delar av ett (bank)lån",
+        belagt: 1789,
+        från: [
+            {
+                ord: "amortir",
+                språk: "franska"
+            }
+        ]
+    },
+    amorös: {
+        ordklass: "adjektiv",
+        betyder: "som har att göra med erotik",
+        belagt: 1913,
+        från: [
+            {
+                ord: "amoureux",
+                språk: "franska"
+            }
+        ]
+    },
+    ampel: {
+        ordklass: "substantiv",
+        betyder: "skål för krukväxter som är avsedd att hängas upp",
+        belagt: 1850,
+        från: [
+            {
+                ord: "ampul",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "ampulla",
+                språk: "latin"
+            }
+        ]
+    },
+    amper: {
+        ordklass: "adjektiv",
+        betyder: "barsk",
+        belagt: "1400-talet",
+        från: [
+            {
+                ord: "amper",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    amplifiera: {
+        ordklass: "verb",
+        betyder: "framställa utförligare",
+        belagt: 1634,
+        från: [
+            {
+                ord: "amplificare",
+                språk: "franska"
+            },
+            {
+                ord: "amplificare",
+                språk: "latin"
+            }
+        ]
+    },
+    amplitud: {
+        ordklass: "substantiv",
+        betyder: "avstånd mellan nolläge och ettdera av ytterlägena i en svängningsrörelse",
+        belagt: 1853,
+        från: [
+            {
+                ord: "amplitude",
+                språk: "franska"
+            },
+            {
+                ord: "amplitudo",
+                språk: "latin"
+            }
+        ]
+    },
+    ampull: {
+        ordklass: "substantiv",
+        betyder: "liten behållare för läkemedel",
+        belagt: 1946,
+        från: [
+            {
+                ord: "ampulla",
+                språk: "latin"
+            }
+        ]
+    },
+    amputera: {
+        ordklass: "verb",
+        betyder: "operera bort",
+        belagt: 1660,
+        från: [
+            {
+                ord: "amputare",
+                språk: "latin"
+            }
+        ]
+    },
+    amt: {
+        ordklass: "substantiv",
+        betyder: "större förvaltningsområde i Danmark",
+        belagt: 1626,
+        från: [
+            {
+                ord: "amt",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    amulett: {
+        ordklass: "substantiv",
+        betyder: "föremål som antas ge skydd mot olyckor",
+        belagt: 1787,
+        från: [
+            {
+                ord: "amuletum",
+                språk: "latin"
+            }
+        ]
+    },
+    amylass: {
+        ordklass: "substantiv",
+        betyder: "ett enzym som bryter ner stärkelse och glykogen till bl.a. maltsocker",
+        belagt: 1927,
+        från: [
+            {
+                ord: "amylon",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amyotrofi: {
+        ordklass: "substantiv",
+        betyder: "muskelförtvining",
+        belagt: 1903,
+        från: [
+            {
+                ord: "a-",
+                språk: "grekiska"
+            },
+            {
+                ord: "mys",
+                språk: "grekiska"
+            },
+            {
+                ord: "trophe",
+                språk: "grekiska"
+            }
+        ]
+    },
+    amöba: {
+        ordklass: "substantiv",
+        betyder: "typ av urdjur med föränderlig och obestämd form",
+        belagt: 1895,
+        från: [
+            {
+                ord: "amoibe",
+                språk: "grekiska"
+            }
+        ]
+    },
+    an: {
+        ordklass: "adverb",
+        betyder: "i riktning mot något",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "an",
+                språk: "lågtyska"
+            },
+            {
+                ord: "an",
+                språk: "tyska"
+            }
+        ]
+    },
+    ana: {
+        ordklass: "verb",
+        betyder: "ha en bestämd känsla av",
+        belagt: 1738,
+        från: [
+            {
+                ord: "anen",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anabaptism: {
+        ordklass: "substantiv",
+        betyder: "en rörelse under reformationstiden som förkastade dop av spädbarn",
+        belagt: 1847,
+        från: [
+            {
+                ord: "anabaptizein",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anabatisk: {
+        ordklass: "adjektiv",
+        betyder: "uppåtriktad",
+        belagt: 2015,
+        från: [
+            {
+                ord: "anabainein",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anabol: {
+        ordklass: "adjektiv",
+        betyder: "som har att göra med anabolism",
+        belagt: 1964,
+        från: [
+            {
+                ord: "ana",
+                språk: "grekiska"
+            },
+            {
+                ord: "ballein",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anaerob: {
+        ordklass: "adjektiv",
+        betyder: "som inte fordrar tillgång till syre",
+        belagt: 1895,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            },
+            {
+                ord: "aer",
+                språk: "grekiska"
+            },
+            {
+                ord: "bios",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anafor: {
+        ordklass: "substantiv",
+        betyder: "stilistisk upprepning av ord eller fras",
+        belagt: 1876,
+        från: [
+            {
+                ord: "anaphora",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anagram: {
+        ordklass: "substantiv",
+        betyder: "ord med samma bokstäver (med omkastad ordning) som ett annat ord",
+        belagt: 1748,
+        från: [
+            {
+                ord: "anagramma",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anakolut: {
+        ordklass: "substantiv",
+        betyder: "satskonstruktion med osammanhängande grammatisk uppbyggnad ",
+        belagt: 1827,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            },
+            {
+                ord: "akolouthos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anakoret: {
+        ordklass: "substantiv",
+        betyder: "person som lever som eremit",
+        belagt: 1528,
+        från: [
+            {
+                ord: "anakhorein",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anakronism: {
+        ordklass: "substantiv",
+        betyder: "företeelse som är otänkbar i ett visst tidssammanhang",
+        belagt: 1833,
+        från: [
+            {
+                ord: "ana",
+                språk: "grekiska"
+            },
+            {
+                ord: "khronos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    analfabet: {
+        ordklass: "substantiv",
+        betyder: "person som inte kan läsa och skriva",
+        belagt: 1894,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            }
+        ]
+    },
+    analgetika: {
+        ordklass: "substantiv",
+        betyder: "smärtstillande medel",
+        belagt: 1942,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            },
+            {
+                ord: "algos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    analog: {
+        ordklass: "adjektiv",
+        betyder: "som kan betraktas som likartad eller överensstämmande",
+        belagt: 1788,
+        från: [
+            {
+                ord: "analogos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    analogi: {
+        ordklass: "substantiv",
+        betyder: "huvudsaklig överensstämmelse i de avseenden som är väsentliga",
+        belagt: 1744,
+        från: [
+            {
+                ord: "analogia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    analys: {
+        ordklass: "substantiv",
+        betyder: "djupgående och noggrann undersökning av abstrakt företeelses beståndsdelar",
+        belagt: 1799,
+        från: [
+            {
+                ord: "analysis",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anamma: {
+        ordklass: "verb",
+        betyder: "aktivt ta emot och utnyttja",
+        belagt: 1404,
+        från: [
+            {
+                ord: "anamma",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "annamen",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anamnes: {
+        ordklass: "substantiv",
+        betyder: "(redogörelse för) en sjukdoms förhistoria",
+        belagt: 1847,
+        från: [
+            {
+                ord: "anamnesis",
+                språk: "grekiska"
+            }
+        ]
+    },
+    ananas: {
+        ordklass: "substantiv",
+        betyder: "en stor tropisk (sken)frukt med trådigt, sött, gult fruktkött",
+        belagt: 1754,
+        från: [
+            {
+                ord: "ananas",
+                språk: "portugisiska"
+            }
+        ]
+    },
+    anapest: {
+        ordklass: "substantiv",
+        betyder: "versfot med två obetonade stavelser följda av en betonad",
+        belagt: 1801,
+        från: [
+            {
+                ord: "anapaistos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anarki: {
+        ordklass: "substantiv",
+        betyder: "frånvaro av styrande och kontrollerande makt",
+        belagt: 1660,
+        från: [
+            {
+                ord: "anarkhia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anastigmat: {
+        ordklass: "substantiv",
+        betyder: "lins eller linssystem som korrigerats för astigmatism",
+        belagt: 1893,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anastigmatisk: {
+        ordklass: "adjektiv",
+        betyder: "som motverkar astigmatism",
+        belagt: 1888,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anatema: {
+        ordklass: "substantiv",
+        betyder: "kraftigt fördömande",
+        belagt: 1818,
+        från: [
+            {
+                ord: "anathema",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anatomi: {
+        ordklass: "substantiv",
+        betyder: "läran om organismernas form och uppbyggnad",
+        belagt: 1685,
+        från: [
+            {
+                ord: "anatome",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anbefalla: {
+        ordklass: "verb",
+        betyder: "(hovsamt) påbjuda",
+        belagt: 1667,
+        från: [
+            {
+                ord: "anbefehlen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anbelanga: {
+        ordklass: "verb",
+        betyder: "beträffa",
+        belagt: 1614,
+        från: [
+            {
+                ord: "anbelangen",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anblick: {
+        ordklass: "substantiv",
+        betyder: "synintryck vid betraktande",
+        belagt: 1710,
+        från: [
+            {
+                ord: "anblick",
+                språk: "tyska"
+            }
+        ]
+    },
+    anblåsa: {
+        ordklass: "verb",
+        betyder: "frambringa toner eller ljud genom att pressa luftström genom",
+        belagt: 1836,
+        från: [
+            {
+                ord: "anblasen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anbringa: {
+        ordklass: "verb",
+        betyder: "placera",
+        belagt: 1807,
+        från: [
+            {
+                ord: "anbringen",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anbud: {
+        ordklass: "substantiv",
+        betyder: "erbjudande av vara eller tjänst mot viss ersättning",
+        belagt: 1825,
+        från: [
+            {
+                ord: "angebot",
+                språk: "tyska"
+            }
+        ]
+    },
+    anciennitet: {
+        ordklass: "substantiv",
+        betyder: "princip om företräde vid utnämning på grund av fler tjänsteår",
+        belagt: 1723,
+        från: [
+            {
+                ord: "anciennité",
+                språk: "franska"
+            }
+        ]
+    },
+    and: {
+        ordklass: "substantiv",
+        betyder: "typ av medelstor simfågel med platt näbb och (hos hannen) ofta färggrann fjäderdräkt",
+        belagt: 1310,
+        från: [
+            {
+                ord: "and",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    anda: {
+        ordklass: "substantiv",
+        betyder: "andedräkt",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "ande",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "anda",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    andakt: {
+        ordklass: "substantiv",
+        betyder: "hänvändelse till gudom",
+        belagt: 1705,
+        från: [
+            {
+                ord: "andacht",
+                språk: "lågtyska"
+            },
+            {
+                ord: "andacht",
+                språk: "tyska"
+            }
+        ]
+    },
+    andante: {
+        ordklass: "adverb",
+        betyder: "med relativt långsamt tempo mellan adagio och allegro",
+        belagt: 1802,
+        från: [
+            {
+                ord: "andante",
+                språk: "italienska"
+            }
+        ]
+    },
+    andas: {
+        ordklass: "verb",
+        betyder: "regelbundet dra in (luft) i lungorna och åter släppa ut den",
+        belagt: 1385,
+        från: [
+            {
+                ord: "anda",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "andas",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    ande: {
+        ordklass: "substantiv",
+        betyder: "den högsta formen av medvetande hos människan",
+        belagt: "1000-talet",
+        från: [
+            {
+                ord: "anta",
+                språk: "runform"
+            },
+            {
+                ord: "ande",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    andedrag: {
+        ordklass: "substantiv",
+        betyder: "andetag",
+        belagt: "1500-talet",
+        från: [
+            {
+                ord: "andadragh",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    andedräkt: {
+        ordklass: "substantiv",
+        betyder: "utandad luft",
+        belagt: 1484,
+        från: [
+            {
+                ord: "andadräkt",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    andefattig: {
+        ordklass: "adjektiv",
+        betyder: "som präglas av brist på skaparförmåga och idéer",
+        belagt: 1839,
+        från: [
+            {
+                ord: "geistesarm",
+                språk: "tyska"
+            }
+        ]
+    },
+    andel: {
+        ordklass: "substantiv",
+        betyder: "(relativ) delaktighet",
+        belagt: 1408,
+        från: [
+            {
+                ord: "andel",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "andel",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    andlig: {
+        ordklass: "adjektiv",
+        betyder: "som gäller själslivet",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "andeliker",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    andligen: {
+        ordklass: "adverb",
+        betyder: "i andligt avseende",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "andelika",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    andlös: {
+        ordklass: "adjektiv",
+        betyder: "som har sinnena på helspänn",
+        belagt: 1798,
+        från: [
+            {
+                ord: "andalös",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    andra: {
+        ordklass: "räkneord",
+        betyder: "som är nummer två i ordningen",
+        belagt: "800-talet",
+        från: [
+            {
+                ord: "onart",
+                språk: "runform"
+            }
+        ]
+    },
+    andrahandsbutik: {
+        ordklass: "substantiv",
+        betyder: "butik som säljer begagnade varor",
+        belagt: 1974,
+        från: [
+            {
+                ord: "second-hand shop",
+                språk: "engelska"
+            }
+        ]
+    },
+    andrake: {
+        ordklass: "substantiv",
+        betyder: "hanne av vildand",
+        belagt: 1675,
+        från: [
+            {
+                ord: "andrake",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    androcentrisk: {
+        ordklass: "adjektiv",
+        betyder: "som sätter det manliga som centrum och norm",
+        belagt: 1984,
+        från: [
+            {
+                ord: "aner",
+                språk: "grekiska"
+            }
+        ]
+    },
+    androfobi: {
+        ordklass: "substantiv",
+        betyder: "(sjuklig) rädsla för män",
+        belagt: 1903,
+        från: [
+            {
+                ord: "aner",
+                språk: "grekiska"
+            }
+        ]
+    },
+    androgen: {
+        ordklass: "substantiv",
+        betyder: "steroid med maskuliniserande effekt",
+        belagt: 1989,
+        från: [
+            {
+                ord: "aner",
+                språk: "grekiska"
+            }
+        ]
+    },
+    androgyn: {
+        ordklass: "substantiv",
+        betyder: "mänsklig varelse med både kvinnliga och manliga könsorgan",
+        belagt: 1779,
+        från: [
+            {
+                ord: "aner",
+                språk: "grekiska"
+            }
+        ]
+    },
+    andrologi: {
+        ordklass: "substantiv",
+        betyder: "läran om de manliga könskörtlarna och deras sjukdomar",
+        belagt: 1983,
+        från: [
+            {
+                ord: "andro-",
+                språk: "grekiska"
+            },
+            {
+                ord: "logos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    andrum: {
+        ordklass: "substantiv",
+        betyder: "(extra) tid för samling eller vila (efter och) inför påfrestning",
+        belagt: "ca 1420",
+        från: [
+            {
+                ord: "andarum",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    andtruten: {
+        ordklass: "adjektiv",
+        betyder: "andfådd",
+        belagt: "ca 1520",
+        från: [
+            {
+                ord: "anda trothin",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    anekdot: {
+        ordklass: "substantiv",
+        betyder: "kortare roande historia",
+        belagt: 1778,
+        från: [
+            {
+                ord: "anekdoton",
+                språk: "latin"
+            },
+            {
+                ord: "anekdoton",
+                språk: "franska"
+            },
+            {
+                ord: "anekdoton",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anemi: {
+        ordklass: "substantiv",
+        betyder: "blodbrist",
+        belagt: 1872,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            },
+            {
+                ord: "haima",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anemometer: {
+        ordklass: "substantiv",
+        betyder: "ett instrument för bestämning av vindhastighet",
+        belagt: 1762,
+        från: [
+            {
+                ord: "anemos",
+                språk: "grekiska"
+            },
+            {
+                ord: "metron",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anemon: {
+        ordklass: "substantiv",
+        betyder: "typ av sippa",
+        belagt: 1745,
+        från: [
+            {
+                ord: "anemone",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anergi: {
+        ordklass: "substantiv",
+        betyder: "del av en energimängd som vid energiomvandling inte kan användas till arbete",
+        belagt: 1989,
+        från: [
+            {
+                ord: "anergia",
+                språk: "grekiska"
+            },
+            {
+                ord: "an-",
+                språk: "grekiska"
+            },
+            {
+                ord: "ergon",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aneroidbarometer: {
+        ordklass: "substantiv",
+        betyder: "barometer som mäter lufttryck genom att registrera formförändring hos tomma metalldosor",
+        belagt: 1853,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            },
+            {
+                ord: "neros",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anestesi: {
+        ordklass: "substantiv",
+        betyder: "starkt försvagad eller upphävd förmåga att erfara känselintryck",
+        belagt: 1796,
+        från: [
+            {
+                ord: "anaisthesia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anestesiologi: {
+        ordklass: "substantiv",
+        betyder: "läran om medicinska bedövningsmetoder",
+        belagt: 1940,
+        från: [
+            {
+                ord: "logos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aneurysm: {
+        ordklass: "substantiv",
+        betyder: "avgränsad utbuktning på en pulsåder",
+        belagt: 1852,
+        från: [
+            {
+                ord: "aneurysma",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anfall: {
+        ordklass: "substantiv",
+        betyder: "offensiva (fientliga) åtgärder",
+        belagt: 1497,
+        från: [
+            {
+                ord: "anfal",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "anval",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anfang: {
+        ordklass: "substantiv",
+        betyder: "större, rikt utsmyckad begynnelsebokstav",
+        belagt: 1806,
+        från: [
+            {
+                ord: "anfang",
+                språk: "tyska"
+            }
+        ]
+    },
+    anfordran: {
+        ordklass: "substantiv",
+        betyder: "formell uppmaning",
+        belagt: 1836,
+        från: [
+            {
+                ord: "anfordern",
+                språk: "tyska"
+            }
+        ]
+    },
+    anfäkta: {
+        ordklass: "verb",
+        betyder: "ständigt oroa eller plåga",
+        belagt: 1555,
+        från: [
+            {
+                ord: "anfechten",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anföra: {
+        ordklass: "verb",
+        betyder: "fungera som ledare för",
+        belagt: 1559,
+        från: [
+            {
+                ord: "anführen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anförtro: {
+        ordklass: "verb",
+        betyder: "i förtroende meddela",
+        belagt: 1657,
+        från: [
+            {
+                ord: "anvertrauen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anförvant: {
+        ordklass: "substantiv",
+        betyder: "släkting",
+        belagt: 1648,
+        från: [
+            {
+                ord: "anverwandt",
+                språk: "tyska"
+            }
+        ]
+    },
+    ange: {
+        ordklass: "verb",
+        betyder: "meddela som fastställd ordning",
+        belagt: 1773,
+        från: [
+            {
+                ord: "angeben",
+                språk: "tyska"
+            },
+            {
+                ord: "angeven",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    angelägen: {
+        ordklass: "adjektiv",
+        betyder: "som visar starkt (och otåligt) intresse",
+        belagt: 1723,
+        från: [
+            {
+                ord: "angelegen",
+                språk: "lågtyska"
+            },
+            {
+                ord: "angelegen",
+                språk: "tyska"
+            }
+        ]
+    },
+    angenäm: {
+        ordklass: "adjektiv",
+        betyder: "som känns behaglig för sinnena",
+        belagt: 1696,
+        från: [
+            {
+                ord: "angenehm",
+                språk: "tyska"
+            }
+        ]
+    },
+    angina: {
+        ordklass: "substantiv",
+        betyder: "halsfluss",
+        belagt: 1876,
+        från: [
+            {
+                ord: "angina",
+                språk: "latin"
+            },
+            {
+                ord: "angkhone",
+                språk: "grekiska"
+            }
+        ]
+    },
+    angiografi: {
+        ordklass: "substantiv",
+        betyder: "röntgenundersökning av blodkärl",
+        belagt: 1903,
+        från: [
+            {
+                ord: "angeion",
+                språk: "grekiska"
+            },
+            {
+                ord: "graphein",
+                språk: "grekiska"
+            }
+        ]
+    },
+    angiologi: {
+        ordklass: "substantiv",
+        betyder: "läran om kroppens kärlsystem",
+        belagt: 1876,
+        från: [
+            {
+                ord: "angeion",
+                språk: "grekiska"
+            },
+            {
+                ord: "logos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    angiosperm: {
+        ordklass: "substantiv",
+        betyder: "typ av växt som har fröämnena omslutna av en fruktvägg",
+        belagt: 1856,
+        från: [
+            {
+                ord: "angeion",
+                språk: "grekiska"
+            },
+            {
+                ord: "sperma",
+                språk: "grekiska"
+            }
+        ]
+    },
+    angiva: {
+        ordklass: "verb",
+        betyder: "meddela som fastställd ordning",
+        belagt: 1773,
+        från: [
+            {
+                ord: "angeben",
+                språk: "tyska"
+            },
+            {
+                ord: "angeven",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    angler: {
+        ordklass: "substantiv",
+        betyder: "person som tillhörde en forntida germansk folkstam",
+        belagt: 1747,
+        från: [
+            {
+                ord: "angli",
+                språk: "latin"
+            }
+        ]
+    },
+    anglicism: {
+        ordklass: "substantiv",
+        betyder: "språkligt uttryckssätt som är typiskt för engelskan och som uppträder (efterbildat) i annat språk",
+        belagt: 1795,
+        från: [
+            {
+                ord: "anglicus",
+                språk: "latin"
+            }
+        ]
+    },
+    anglikansk: {
+        ordklass: "adjektiv",
+        betyder: "som har att göra med den engelska statskyrkan och dess dotterkyrkor",
+        belagt: 1780,
+        från: [
+            {
+                ord: "anglican",
+                språk: "engelska"
+            }
+        ]
+    },
+    anglo: {
+        ordklass: "förled",
+        betyder: "engelsk",
+        belagt: "ca 1680",
+        från: [
+            {
+                ord: "angli",
+                språk: "latin"
+            }
+        ]
+    },
+    anglosaxare: {
+        ordklass: "substantiv",
+        betyder: "engelsman eller amerikan",
+        belagt: 1888,
+        från: [
+            {
+                ord: "anglo-saxones",
+                språk: "medeltidslatin"
+            },
+            {
+                ord: "saxones",
+                språk: "latin"
+            }
+        ]
+    },
+    anglosachsare: {
+        ordklass: "substantiv",
+        betyder: "engelsman eller amerikan",
+        belagt: 1888,
+        från: [
+            {
+                ord: "anglo-saxones",
+                språk: "medeltidslatin"
+            },
+            {
+                ord: "saxones",
+                språk: "latin"
+            }
+        ]
+    },
+    angläs: {
+        ordklass: "substantiv",
+        betyder: "en snabb dans i tvåtakt",
+        belagt: 1802,
+        från: [
+            {
+                ord: "anglaise",
+                språk: "franska"
+            }
+        ]
+    },
+    angrepp: {
+        ordklass: "substantiv",
+        betyder: "direkt anfall",
+        belagt: 1495,
+        från: [
+            {
+                ord: "angrep",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    angripa: {
+        ordklass: "verb",
+        betyder: "gå till fysiskt angrepp",
+        belagt: 1534,
+        från: [
+            {
+                ord: "angripen",
+                språk: "lågtyska"
+            },
+            {
+                ord: "angreifen",
+                språk: "tyska"
+            }
+        ]
+    },
+    angränsande: {
+        ordklass: "adjektiv",
+        betyder: "belägen närmast intill",
+        belagt: 1739,
+        från: [
+            {
+                ord: "angrenzen",
+                språk: "tyska"
+            }
+        ]
+    },
+    angå: {
+        ordklass: "verb",
+        betyder: "tillhöra det rättmätiga intresseområdet för",
+        belagt: 1540,
+        från: [
+            {
+                ord: "angehen",
+                språk: "tyska"
+            }
+        ]
+    },
+    angöra: {
+        ordklass: "verb",
+        betyder: "(låta) gå in i",
+        belagt: 1877,
+        från: [
+            {
+                ord: "andon",
+                språk: "lågtyska"
+            },
+            {
+                ord: "anmaken",
+                språk: "nederländska"
+            }
+        ]
+    },
+    anhalt: {
+        ordklass: "substantiv",
+        betyder: "plats för uppehåll",
+        belagt: 1894,
+        från: [
+            {
+                ord: "anhalt",
+                språk: "tyska"
+            }
+        ]
+    },
+    anhang: {
+        ordklass: "substantiv",
+        betyder: "obestämd, tvivelaktig grupp som följer och stöder viss person",
+        belagt: 1527,
+        från: [
+            {
+                ord: "anhang",
+                språk: "tyska"
+            }
+        ]
+    },
+    anhopa: {
+        ordklass: "verb",
+        betyder: "samla till ett ställe",
+        belagt: 1889,
+        från: [
+            {
+                ord: "anhäufen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anhålla: {
+        ordklass: "verb",
+        betyder: "formellt begära",
+        belagt: 1592,
+        från: [
+            {
+                ord: "anhalten",
+                språk: "tyska"
+            }
+        ]
+    },
+    anhängare: {
+        ordklass: "substantiv",
+        betyder: "person som helhjärtat stöder viss företeelse",
+        belagt: 1517,
+        från: [
+            {
+                ord: "anhängiare",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "anhänger",
+                språk: "tyska"
+            }
+        ]
+    },
+    anhängig: {
+        ordklass: "adjektiv",
+        betyder: "överlämnad till prövning och avgörande",
+        belagt: 1633,
+        från: [
+            {
+                ord: "anhängig",
+                språk: "tyska"
+            }
+        ]
+    },
+    anhörig: {
+        ordklass: "adjektiv",
+        betyder: "som är bland de närmaste släktingarna",
+        belagt: 1727,
+        från: [
+            {
+                ord: "anhörich",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anilin: {
+        ordklass: "substantiv",
+        betyder: "en giftig vätska som används som lösningsmedel och för framställning av olika (blåa) färgämnen",
+        belagt: 1841,
+        från: [
+            {
+                ord: "aniline",
+                språk: "franska"
+            },
+            {
+                ord: "annila",
+                språk: "spanska"
+            },
+            {
+                ord: "annila",
+                språk: "arabiska"
+            },
+            {
+                ord: "al-nila",
+                språk: "arabiska"
+            }
+        ]
+    },
+    animal: {
+        ordklass: "adjektiv",
+        betyder: "som tillhör djurriket",
+        belagt: 1838,
+        från: [
+            {
+                ord: "animalis",
+                språk: "latin"
+            }
+        ]
+    },
+    animation: {
+        ordklass: "substantiv",
+        betyder: "omformning till rörliga bilder som ger intryck av verklighet",
+        belagt: 1964,
+        från: [
+            {
+                ord: "animation",
+                språk: "engelska"
+            }
+        ]
+    },
+    anime: {
+        ordklass: "substantiv",
+        betyder: "typ av (japansk) tecknad film",
+        belagt: 1994,
+        från: [
+            {
+                ord: "animus",
+                språk: "latin"
+            }
+        ]
+    },
+    animera: {
+        ordklass: "verb",
+        betyder: "göra livlig",
+        belagt: 1642,
+        från: [
+            {
+                ord: "animare",
+                språk: "franska"
+            },
+            {
+                ord: "animare",
+                språk: "latin"
+            }
+        ]
+    },
+    animism: {
+        ordklass: "substantiv",
+        betyder: "tro på föremåls besjälning",
+        belagt: 1887,
+        från: [
+            {
+                ord: "anima",
+                språk: "latin"
+            }
+        ]
+    },
+    animositet: {
+        ordklass: "substantiv",
+        betyder: "stark ovilja",
+        belagt: 1726,
+        från: [
+            {
+                ord: "animosus",
+                språk: "latin"
+            }
+        ]
+    },
+    anis: {
+        ordklass: "substantiv",
+        betyder: "en krydda med skarp, sötaktig smak",
+        belagt: "1400-talet",
+        från: [
+            {
+                ord: "anis",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "anisum",
+                språk: "latin"
+            }
+        ]
+    },
+    anisett: {
+        ordklass: "substantiv",
+        betyder: "en vit likör kryddad med anis",
+        belagt: 1815,
+        från: [
+            {
+                ord: "anisette",
+                språk: "franska"
+            }
+        ]
+    },
+    anjon: {
+        ordklass: "substantiv",
+        betyder: "negativt laddad jon",
+        belagt: 1951,
+        från: [
+            {
+                ord: "ana-",
+                språk: "grekiska"
+            }
+        ]
+    },
+    ankare: {
+        ordklass: "substantiv",
+        betyder: "redskap som med tåg eller kätting håller fartyg på plats genom att gripa tag i sjöbotten",
+        belagt: "1320-50",
+        från: [
+            {
+                ord: "ankare",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "ancora",
+                språk: "latin"
+            },
+            {
+                ord: "ankyra",
+                språk: "grekiska"
+            }
+        ]
+    },
+    ankel: {
+        ordklass: "substantiv",
+        betyder: "knöl på in- eller utsidan av fotleden",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "ankol",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    anklaga: {
+        ordklass: "verb",
+        betyder: "utpeka som skyldig",
+        belagt: 1541,
+        från: [
+            {
+                ord: "anklagen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anklang: {
+        ordklass: "substantiv",
+        betyder: "positivt intresse",
+        belagt: 1841,
+        från: [
+            {
+                ord: "anklang",
+                språk: "tyska"
+            }
+        ]
+    },
+    anknyta: {
+        ordklass: "verb",
+        betyder: "skapa en förbindelse för",
+        belagt: 1882,
+        från: [
+            {
+                ord: "anknüpfen",
+                språk: "tyska"
+            }
+        ]
+    },
+    ankomma: {
+        ordklass: "verb",
+        betyder: "anlända",
+        belagt: 1541,
+        från: [
+            {
+                ord: "ankomen",
+                språk: "lågtyska"
+            },
+            {
+                ord: "ankommen",
+                språk: "tyska"
+            }
+        ]
+    },
+    ankomst: {
+        ordklass: "substantiv",
+        betyder: "det att komma fram",
+        belagt: 1565,
+        från: [
+            {
+                ord: "ankumpst",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anlag: {
+        ordklass: "substantiv",
+        betyder: "första början",
+        belagt: 1832,
+        från: [
+            {
+                ord: "anlage",
+                språk: "tyska"
+            }
+        ]
+    },
+    anledning: {
+        ordklass: "substantiv",
+        betyder: "omständighet som naturligen leder till viss konsekvens",
+        belagt: 1644,
+        från: [
+            {
+                ord: "anleitung",
+                språk: "tyska"
+            }
+        ]
+    },
+    anlete: {
+        ordklass: "substantiv",
+        betyder: "ansikte",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "andlite",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    anligga: {
+        ordklass: "verb",
+        betyder: "ligga med direkt kontakt",
+        belagt: 1873,
+        från: [
+            {
+                ord: "anliggen",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anlägga: {
+        ordklass: "verb",
+        betyder: "skapa (något) från grunden",
+        belagt: 1657,
+        från: [
+            {
+                ord: "anleggen",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anlända: {
+        ordklass: "verb",
+        betyder: "komma fram",
+        belagt: 1627,
+        från: [
+            {
+                ord: "anländen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anlöpa: {
+        ordklass: "verb",
+        betyder: "lägga till i",
+        belagt: 1807,
+        från: [
+            {
+                ord: "anlopen",
+                språk: "lågtyska"
+            },
+            {
+                ord: "anlaufen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anmana: {
+        ordklass: "verb",
+        betyder: "rikta formell uppmaning till",
+        belagt: 1662,
+        från: [
+            {
+                ord: "anmahnen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anmoda: {
+        ordklass: "verb",
+        betyder: "ge (formellt) bindande uppmaning",
+        belagt: 1620,
+        från: [
+            {
+                ord: "moden",
+                språk: "lågtyska"
+            },
+            {
+                ord: "muten",
+                språk: "tyska"
+            }
+        ]
+    },
+    anmäla: {
+        ordklass: "verb",
+        betyder: "lämna formellt meddelande om",
+        belagt: 1624,
+        från: [
+            {
+                ord: "anmelden",
+                språk: "tyska"
+            },
+            {
+                ord: "melden",
+                språk: "tyska"
+            }
+        ]
+    },
+    anmärka: {
+        ordklass: "verb",
+        betyder: "framföra kritik",
+        belagt: 1815,
+        från: [
+            {
+                ord: "anmerken",
+                språk: "tyska"
+            }
+        ]
+    },
+    annaler: {
+        ordklass: "substantiv",
+        betyder: "förteckning i tidsföljd över inträffade viktigare händelser",
+        belagt: 1822,
+        från: [
+            {
+                ord: "annales",
+                språk: "latin"
+            }
+        ]
+    },
+    annan: {
+        ordklass: "pronomen",
+        betyder: "som inte är identisk",
+        belagt: "1000-talet",
+        från: [
+            {
+                ord: "anan",
+                språk: "runform"
+            },
+            {
+                ord: "annar",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "annar",
+                språk: "runsvenska"
+            }
+        ]
+    },
+    annanstans: {
+        ordklass: "adverb",
+        betyder: "på annan plats",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "annarstadz",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "annanstadz",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    annars: {
+        ordklass: "adverb",
+        betyder: "under andra omständigheter",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "annars",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    annektera: {
+        ordklass: "verb",
+        betyder: "ta (landområde) i besittning",
+        belagt: 1866,
+        från: [
+            {
+                ord: "annectere",
+                språk: "latin"
+            }
+        ]
+    },
+    annex: {
+        ordklass: "substantiv",
+        betyder: "mindre byggnad i anslutning till huvudbyggnad",
+        belagt: 1872,
+        från: [
+            {
+                ord: "annexus",
+                språk: "latin"
+            }
+        ]
+    },
+    annihilera: {
+        ordklass: "verb",
+        betyder: "förorsaka annihilation av",
+        belagt: 1571,
+        från: [
+            {
+                ord: "annihilare",
+                språk: "latin"
+            }
+        ]
+    },
+    anno: {
+        ordklass: "substantiv",
+        betyder: "år",
+        belagt: 1587,
+        från: [
+            {
+                ord: "annus",
+                språk: "latin"
+            }
+        ]
+    },
+    annons: {
+        ordklass: "substantiv",
+        betyder: "erbjudande eller meddelande infört på betald plats",
+        belagt: 1779,
+        från: [
+            {
+                ord: "annonce",
+                språk: "franska"
+            }
+        ]
+    },
+    annonsera: {
+        ordklass: "verb",
+        betyder: "meddela eller erbjuda genom annons",
+        belagt: 1788,
+        från: [
+            {
+                ord: "annoncer",
+                språk: "franska"
+            },
+            {
+                ord: "annoncieren",
+                språk: "tyska"
+            }
+        ]
+    },
+    annorledes: {
+        ordklass: "adverb",
+        betyder: "",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "annorledhis",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    annorlunda: {
+        ordklass: "adverb",
+        betyder: "annorlunda",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "annorledhis",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    annorstädes: {
+        ordklass: "adverb",
+        betyder: "på annan plats",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "annarstadz",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "annorstädz",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    annotera: {
+        ordklass: "verb",
+        betyder: "göra anteckningar om",
+        belagt: 1534,
+        från: [
+            {
+                ord: "annotare",
+                språk: "latin"
+            }
+        ]
+    },
+    annuell: {
+        ordklass: "adjektiv",
+        betyder: "årlig",
+        belagt: 1751,
+        från: [
+            {
+                ord: "annuel",
+                språk: "franska"
+            }
+        ]
+    },
+    annuitet: {
+        ordklass: "substantiv",
+        betyder: "summan av avbetalning och ränta på skuld",
+        belagt: 1797,
+        från: [
+            {
+                ord: "annuité",
+                språk: "franska"
+            }
+        ]
+    },
+    annullera: {
+        ordklass: "verb",
+        betyder: "förklara (beslut, kontrakt eller dylikt) ogiltigt",
+        belagt: 1658,
+        från: [
+            {
+                ord: "annullare",
+                språk: "latin"
+            }
+        ]
+    },
+    anod: {
+        ordklass: "substantiv",
+        betyder: "positiv elektrod",
+        belagt: 1835,
+        från: [
+            {
+                ord: "anode",
+                språk: "engelska"
+            }
+        ]
+    },
+    anodisera: {
+        ordklass: "verb",
+        betyder: "ge (en metalls ytskikt) ett skyddande oxidlager genom elektrolys",
+        belagt: 1962,
+        från: [
+            {
+                ord: "anodize",
+                språk: "engelska"
+            }
+        ]
+    },
+    anodonti: {
+        ordklass: "substantiv",
+        betyder: "avsaknad av tänder",
+        belagt: 1997,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            },
+            {
+                ord: "odous",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anomali: {
+        ordklass: "substantiv",
+        betyder: "orimlig företeelse eller orimligt förhållande",
+        belagt: 1815,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            },
+            {
+                ord: "homalos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anomi: {
+        ordklass: "substantiv",
+        betyder: "samhälleligt tillstånd av regellöshet eller normlöshet",
+        belagt: 1887,
+        från: [
+            {
+                ord: "anomia",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anonym: {
+        ordklass: "adjektiv",
+        betyder: "vars upphovsman inte kan identifieras",
+        belagt: 1770,
+        från: [
+            {
+                ord: "anonymos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anor: {
+        ordklass: "substantiv",
+        betyder: "(förtjänstfulla) historiska traditioner",
+        belagt: 1620,
+        från: [
+            {
+                ord: "anen",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anorak: {
+        ordklass: "substantiv",
+        betyder: "en rymlig, vindtät jacka med kapuschong",
+        belagt: 1943,
+        från: [
+            {
+                ord: "anoraq",
+                språk: "grönländska"
+            }
+        ]
+    },
+    anordna: {
+        ordklass: "verb",
+        betyder: "förbereda och sätta i verket",
+        belagt: 1819,
+        från: [
+            {
+                ord: "anordnen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anorexi: {
+        ordklass: "substantiv",
+        betyder: "en ätstörning som innebär att någon svälter sig",
+        belagt: 1903,
+        från: [
+            {
+                ord: "an-",
+                språk: "grekiska"
+            },
+            {
+                ord: "orexis",
+                språk: "grekiska"
+            }
+        ]
+    },
+    anpart: {
+        ordklass: "substantiv",
+        betyder: "andel",
+        belagt: 1530,
+        från: [
+            {
+                ord: "anpart",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anpassa: {
+        ordklass: "verb",
+        betyder: "ändra (något) till större lämplighet",
+        belagt: 1820,
+        från: [
+            {
+                ord: "anpassen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anrika: {
+        ordklass: "verb",
+        betyder: "öka koncentration av",
+        belagt: 1788,
+        från: [
+            {
+                ord: "anreichern",
+                språk: "tyska"
+            }
+        ]
+    },
+    anrop: {
+        ordklass: "substantiv",
+        betyder: "yttrande eller signal som påkallar uppmärksamhet",
+        belagt: 1516,
+        från: [
+            {
+                ord: "anrop",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "anrop",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anrätta: {
+        ordklass: "verb",
+        betyder: "tillaga",
+        belagt: 1561,
+        från: [
+            {
+                ord: "anrichten",
+                språk: "tyska"
+            }
+        ]
+    },
+    ansamla: {
+        ordklass: "verb",
+        betyder: "samla till ett ställe",
+        belagt: 1868,
+        från: [
+            {
+                ord: "ansammeln",
+                språk: "tyska"
+            }
+        ]
+    },
+    ansats: {
+        ordklass: "substantiv",
+        betyder: "påbörjat försök",
+        belagt: 1815,
+        från: [
+            {
+                ord: "ansatz",
+                språk: "tyska"
+            }
+        ]
+    },
+    anse: {
+        ordklass: "verb",
+        betyder: "ha som sin åsikt eller ståndpunkt",
+        belagt: 1526,
+        från: [
+            {
+                ord: "anse",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "ansen",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    ansenlig: {
+        ordklass: "adjektiv",
+        betyder: "tämligen stor",
+        belagt: 1561,
+        från: [
+            {
+                ord: "ansehnlich",
+                språk: "tyska"
+            }
+        ]
+    },
+    ansikte: {
+        ordklass: "substantiv",
+        betyder: "del av huvudet som omger och innefattar ögonen, näsan och munnen och som utgör viktigaste igenkänningstecken för personen i fråga",
+        belagt: "1500-talet",
+        från: [
+            {
+                ord: "ansikte",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "ansichte",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    ansjovis: {
+        ordklass: "substantiv",
+        betyder: "starkt kryddad skarpsill",
+        belagt: "ca 1650",
+        från: [
+            {
+                ord: "anchovies",
+                språk: "engelska"
+            }
+        ]
+    },
+    anskaffa: {
+        ordklass: "verb",
+        betyder: "vidta åtgärder för att komma i besittning av",
+        belagt: 1638,
+        från: [
+            {
+                ord: "anschaffen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anskri: {
+        ordklass: "substantiv",
+        betyder: "häftigt skrik",
+        belagt: 1506,
+        från: [
+            {
+                ord: "anskri",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "anschri",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anskriven: {
+        ordklass: "adjektiv",
+        betyder: "som har visst (gott eller dåligt) anseende",
+        belagt: 1740,
+        från: [
+            {
+                ord: "angeschrieben",
+                språk: "tyska"
+            }
+        ]
+    },
+    anslag: {
+        ordklass: "substantiv",
+        betyder: "skriftligt meddelande som är uppsatt på väl synlig plats",
+        belagt: 1677,
+        från: [
+            {
+                ord: "anslagh",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "anslach",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    ansluta: {
+        ordklass: "verb",
+        betyder: "åstadkomma förbindelse av",
+        belagt: 1820,
+        från: [
+            {
+                ord: "anschließen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anslå: {
+        ordklass: "verb",
+        betyder: "träffa med slag",
+        belagt: 1798,
+        från: [
+            {
+                ord: "anslan",
+                språk: "lågtyska"
+            },
+            {
+                ord: "anschlagen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anspann: {
+        ordklass: "substantiv",
+        betyder: "dragdjur som är spända framför vagn",
+        belagt: 1698,
+        från: [
+            {
+                ord: "anspann",
+                språk: "tyska"
+            }
+        ]
+    },
+    anspela: {
+        ordklass: "verb",
+        betyder: "antydningsvis väcka föreställning",
+        belagt: 1833,
+        från: [
+            {
+                ord: "anspielen",
+                språk: "tyska"
+            }
+        ]
+    },
+    anspråk: {
+        ordklass: "substantiv",
+        betyder: "krav för egen räkning",
+        belagt: 1630,
+        från: [
+            {
+                ord: "ansprake",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    anspråkslös: {
+        ordklass: "adjektiv",
+        betyder: "som har små anspråk",
+        belagt: 1804,
+        från: [
+            {
+                ord: "anspruchslos",
+                språk: "tyska"
+            }
+        ]
+    },
     MALL: {
         ordklass: "",
         betyder: "",
@@ -4282,6 +7367,22 @@ function getWordCountByLanguage() {
     return wordCountByLanguage;
 }
 
+function countWordsByClass() {
+    let wordCountByClass = {};
+
+    for (let key in words) {
+        let wordClass = words[key].ordklass;
+
+        if (wordCountByClass[wordClass]) {
+            wordCountByClass[wordClass]++;
+        } else {
+            wordCountByClass[wordClass] = 1;
+        }
+    }
+
+    return wordCountByClass;
+}
+
 function sortObj(obj) {
     return Object.fromEntries(Object.entries(obj).sort((a, b) => b[1] - a[1]));
 }
@@ -4303,10 +7404,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const diagramContainer = document.getElementById('staple-diagram');
 
-    Object.entries(filterObj(sortObj(getWordCountByLanguage()), 4)).forEach(([key, value]) => {
+    Object.entries(filterObj(sortObj(getWordCountByLanguage()), 8)).forEach(([key, value]) => {
         const bar = document.createElement('div');
         bar.className = 'bar';
-        bar.style.height = `${value * 4}px`;
+        bar.style.height = `${value * 2}px`;
         bar.innerHTML = value;
         
         const label = document.createElement('div');

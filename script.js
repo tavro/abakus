@@ -12001,6 +12001,1361 @@ var words = {
             }
         ]
     },
+    avec: {
+        ordklass: "substantiv",
+        betyder: "konjak (eller annan spritdryck) som serveras som tillbehör",
+        belagt: 1891,
+        från: [
+            {
+                ord: "avec",
+                språk: "franska"
+            }
+        ]
+    },
+    avel: {
+        ordklass: "substantiv",
+        betyder: "planmässig förökning och uppfödning av djur",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afl",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    aventurin: {
+        ordklass: "substantiv",
+        betyder: "ett kvartsmineral",
+        belagt: 1788,
+        från: [
+            {
+                ord: "aventurina",
+                språk: "italienska"
+            }
+        ]
+    },
+    aveny: {
+        ordklass: "substantiv",
+        betyder: "bred, centralt belägen gata i (större) stad",
+        belagt: 1779,
+        från: [
+            {
+                ord: "avenue",
+                språk: "franska"
+            }
+        ]
+    },
+    avers: {
+        ordklass: "substantiv",
+        betyder: "framsida av mynt eller medalj",
+        belagt: 1772,
+        från: [
+            {
+                ord: "avers",
+                språk: "franska"
+            }
+        ]
+    },
+    aversion: {
+        ordklass: "substantiv",
+        betyder: "motvilja",
+        belagt: 1665,
+        från: [
+            {
+                ord: "aversio",
+                språk: "franska"
+            },
+            {
+                ord: "aversio",
+                språk: "latin"
+            }
+        ]
+    },
+    avflytta: {
+        ordklass: "verb",
+        betyder: "flytta bort",
+        belagt: "1400-talet",
+        från: [
+            {
+                ord: "af flytia",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avfångningsskott: {
+        ordklass: "substantiv",
+        betyder: "skott som dödar ett svårt skadat djur",
+        belagt: 1930,
+        från: [
+            {
+                ord: "abfangen",
+                språk: "tyska"
+            }
+        ]
+    },
+    avfällig: {
+        ordklass: "adjektiv",
+        betyder: "som upphört att bekänna sig till viss lära eller dylikt",
+        belagt: 1541,
+        från: [
+            {
+                ord: "afvellich",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    avföda: {
+        ordklass: "substantiv",
+        betyder: "sammanfattningen av alla avkomlingar",
+        belagt: "ca 1350",
+        från: [
+            {
+                ord: "afföþa",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avgift: {
+        ordklass: "substantiv",
+        betyder: "fastställt pris som betalas för (viss) tjänst eller rättighet",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afgift",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "afgipt",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avgrund: {
+        ordklass: "substantiv",
+        betyder: "skrämmande, till synes bottenlöst djup",
+        belagt: "ca 1430",
+        från: [
+            {
+                ord: "afgrund",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "afgrunt",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    avgud: {
+        ordklass: "substantiv",
+        betyder: "främmande eller falsk gud",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afguþ",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avgå: {
+        ordklass: "verb",
+        betyder: "lämna sin tjänst eller sitt uppdrag",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afganga",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avgäld: {
+        ordklass: "substantiv",
+        betyder: "periodisk avgift för innehav av jord",
+        belagt: 1340,
+        från: [
+            {
+                ord: "afgiäld",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avhandla: {
+        ordklass: "verb",
+        betyder: "behandla (problem eller fråga) i diskussion",
+        belagt: 1530,
+        från: [
+            {
+                ord: "afhandelen",
+                språk: "lågtyska"
+            },
+            {
+                ord: "abhandeln",
+                språk: "tyska"
+            }
+        ]
+    },
+    avhysa: {
+        ordklass: "verb",
+        betyder: "tvinga att flytta från sin bostad",
+        belagt: 1463,
+        från: [
+            {
+                ord: "afhysa",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avhålla: {
+        ordklass: "verb",
+        betyder: "få (någon) att avstå",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afhalda",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avhända: {
+        ordklass: "verb",
+        betyder: "ta ifrån",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "afhända",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avhänga: {
+        ordklass: "verb",
+        betyder: "vara beroende",
+        belagt: 1756,
+        från: [
+            {
+                ord: "abhängen",
+                språk: "tyska"
+            }
+        ]
+    },
+    avhängig: {
+        ordklass: "adjektiv",
+        betyder: "som på ett avgörande sätt påverkas",
+        belagt: 1815,
+        från: [
+            {
+                ord: "abhängig",
+                språk: "tyska"
+            }
+        ]
+    },
+    avi: {
+        ordklass: "substantiv",
+        betyder: "kort skriftligt meddelande om ankomst av viss postförsändelse",
+        belagt: 1627,
+        från: [
+            {
+                ord: "avis",
+                språk: "franska"
+            }
+        ]
+    },
+    aviarium: {
+        ordklass: "substantiv",
+        betyder: "stor flygbur för fåglar",
+        belagt: 1876,
+        från: [
+            {
+                ord: "aviarium",
+                språk: "latin"
+            }
+        ]
+    },
+    aviatik: {
+        ordklass: "substantiv",
+        betyder: "flygkonst",
+        belagt: 1919,
+        från: [
+            {
+                ord: "avis",
+                språk: "latin"
+            }
+        ]
+    },
+    avig: {
+        ordklass: "adjektiv",
+        betyder: "som utgör in- eller frånsida",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "avigher",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "avugher",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avisera: {
+        ordklass: "verb",
+        betyder: "i förväg underrätta om",
+        belagt: 1614,
+        från: [
+            {
+                ord: "aviser",
+                språk: "franska"
+            }
+        ]
+    },
+    avista: {
+        ordklass: "adverb",
+        betyder: "(som sker) vid påseende",
+        belagt: 1856,
+        från: [
+            {
+                ord: "a (prima) vista",
+                språk: "italienska"
+            }
+        ]
+    },
+    avitaminos: {
+        ordklass: "substantiv",
+        betyder: "typ av sjukdom som orsakas av brist på vitaminer",
+        belagt: 1929,
+        från: [
+            {
+                ord: "a-",
+                språk: "grekiska"
+            }
+        ]
+    },
+    avkall: {
+        ordklass: "substantiv",
+        betyder: "(motvilligt) godkännande av försämring",
+        belagt: 1929,
+        från: [
+            {
+                ord: "afkalde",
+                språk: "danska"
+            }
+        ]
+    },
+    avklä: {
+        ordklass: "verb",
+        betyder: "avlägsna kläder från",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afklädha",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avkläda: {
+        ordklass: "verb",
+        betyder: "avlägsna kläder från",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afklädha",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avkomling: {
+        ordklass: "substantiv",
+        betyder: "person som härstammar i rakt nedstigande led från viss annan (ofta berömd) person",
+        belagt: 1643,
+        från: [
+            {
+                ord: "abkömmling",
+                språk: "tyska"
+            }
+        ]
+    },
+    avkomma: {
+        ordklass: "substantiv",
+        betyder: "sammanfattningen av alla avkomlingar",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afkoma",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avkorta: {
+        ordklass: "verb",
+        betyder: "göra kortare",
+        belagt: "ca 1625",
+        från: [
+            {
+                ord: "afkorta",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avkräva: {
+        ordklass: "verb",
+        betyder: "tvinga att lämna",
+        belagt: 1483,
+        från: [
+            {
+                ord: "afkräfia",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avkunna: {
+        ordklass: "verb",
+        betyder: "officiellt meddela",
+        belagt: 1734,
+        från: [
+            {
+                ord: "abkünden",
+                språk: "tyska"
+            }
+        ]
+    },
+    avla: {
+        ordklass: "verb",
+        betyder: "ge upphov till liv genom befruktning",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "afla",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avlat: {
+        ordklass: "substantiv",
+        betyder: "efterskänkning (inom katolska kyrkan) av botgöring mot viss prestation",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "aflat",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "aflat",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    avlatsbrev: {
+        ordklass: "substantiv",
+        betyder: "dokument som utgör bevis på erhållen avlat",
+        belagt: 1470,
+        från: [
+            {
+                ord: "aflats bref",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avlida: {
+        ordklass: "verb",
+        betyder: "nå livets slut",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afliþa",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avliden: {
+        ordklass: "adjektiv",
+        betyder: "som lämnat livet",
+        belagt: 1405,
+        från: [
+            {
+                ord: "aflidhen",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avliva: {
+        ordklass: "verb",
+        betyder: "beröva livet",
+        belagt: 1430,
+        från: [
+            {
+                ord: "afliva",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avljud: {
+        ordklass: "substantiv",
+        betyder: "typ av vokalväxling hos besläktade ord eller ordformer",
+        belagt: 1849,
+        från: [
+            {
+                ord: "ablaut",
+                språk: "tyska"
+            }
+        ]
+    },
+    avlång: {
+        ordklass: "adjektiv",
+        betyder: "lång och förhållandevis smal",
+        belagt: "1500-talet",
+        från: [
+            {
+                ord: "aflanger",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avlåta: {
+        ordklass: "verb",
+        betyder: "utforma och sända",
+        belagt: 1714,
+        från: [
+            {
+                ord: "aflata",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avlägga: {
+        ordklass: "verb",
+        betyder: "utföra",
+        belagt: 1656,
+        från: [
+            {
+                ord: "afläggia",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avläggare: {
+        ordklass: "substantiv",
+        betyder: "planta som nybildats genom att en gren från en moderplanta böjts ner i jorden, rotat sig och sedan avskilts",
+        belagt: 1779,
+        från: [
+            {
+                ord: "ableger",
+                språk: "tyska"
+            }
+        ]
+    },
+    avlöna: {
+        ordklass: "verb",
+        betyder: "betala lön till",
+        belagt: 1509,
+        från: [
+            {
+                ord: "aflöna",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avlöpa: {
+        ordklass: "verb",
+        betyder: "segla iväg",
+        belagt: 1496,
+        från: [
+            {
+                ord: "aflöpa",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "aflopen",
+                språk: "lågtyska"
+            },
+            {
+                ord: "ablaufen",
+                språk: "tyska"
+            }
+        ]
+    },
+    avlösa: {
+        ordklass: "verb",
+        betyder: "segla iväg",
+        belagt: 1496,
+        från: [
+            {
+                ord: "aflöpa",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "aflopen",
+                språk: "lågtyska"
+            },
+            {
+                ord: "ablaufen",
+                språk: "tyska"
+            }
+        ]
+    },
+    avlösning: {
+        ordklass: "substantiv",
+        betyder: "(det att ge) absolution",
+        belagt: "1487-96",
+        från: [
+            {
+                ord: "aflösning",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avnämare: {
+        ordklass: "substantiv",
+        betyder: "mottagare av vara",
+        belagt: 1633,
+        från: [
+            {
+                ord: "afnemer",
+                språk: "lågtyska"
+            },
+            {
+                ord: "abnehmer",
+                språk: "tyska"
+            }
+        ]
+    },
+    avokado: {
+        ordklass: "substantiv",
+        betyder: "en päronformad tropisk frukt",
+        belagt: 1946,
+        från: [
+            {
+                ord: "ahuacatl",
+                språk: "aztekiska"
+            },
+            {
+                ord: "avocado",
+                språk: "spanska"
+            }
+        ]
+    },
+    avocado: {
+        ordklass: "substantiv",
+        betyder: "en päronformad tropisk frukt",
+        belagt: 1946,
+        från: [
+            {
+                ord: "ahuacatl",
+                språk: "aztekiska"
+            },
+            {
+                ord: "avocado",
+                språk: "spanska"
+            }
+        ]
+    },
+    avog: {
+        ordklass: "adjektiv",
+        betyder: "som har avvisande eller negativ inställning",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "avugher",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "avogher",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "avigher",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avrad: {
+        ordklass: "substantiv",
+        betyder: "arrendeavgift",
+        belagt: "1164-67",
+        från: [
+            {
+                ord: "afraþ",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avreda: {
+        ordklass: "verb",
+        betyder: "göra (sås, stuvning m.m.) tjockare till konsistensen genom att blanda i mjöl eller äggula",
+        belagt: 1469,
+        från: [
+            {
+                ord: "afredha",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avrens: {
+        ordklass: "substantiv",
+        betyder: "bortrensat material",
+        belagt: 1950,
+        från: [
+            {
+                ord: "afrensa",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avrop: {
+        ordklass: "substantiv",
+        betyder: "beställning av en vara som man tidigare träffat avtal om",
+        belagt: 1956,
+        från: [
+            {
+                ord: "abruf",
+                språk: "tyska"
+            }
+        ]
+    },
+    avråda: {
+        ordklass: "verb",
+        betyder: "råda (någon) att avstå",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afradha",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avräkna: {
+        ordklass: "verb",
+        betyder: "räkna bort",
+        belagt: 1669,
+        från: [
+            {
+                ord: "afräkna",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avrätta: {
+        ordklass: "verb",
+        betyder: "verkställa dödsstraff på",
+        belagt: 1544,
+        från: [
+            {
+                ord: "rätta",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "africhten",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    avsaknad: {
+        ordklass: "substantiv",
+        betyder: "det att något fattas",
+        belagt: "ca 1420",
+        från: [
+            {
+                ord: "afsaknadher",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avsalu: {
+        ordklass: "substantiv",
+        betyder: "försäljning",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afsala",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avsats: {
+        ordklass: "substantiv",
+        betyder: "plan horisontell yta som avbryter sluttning",
+        belagt: 1745,
+        från: [
+            {
+                ord: "absatz",
+                språk: "tyska"
+            }
+        ]
+    },
+    avse: {
+        ordklass: "verb",
+        betyder: "ha för avsikt",
+        belagt: 1857,
+        från: [
+            {
+                ord: "afsen",
+                språk: "lågtyska"
+            },
+            {
+                ord: "absehen",
+                språk: "tyska"
+            }
+        ]
+    },
+    avsides: {
+        ordklass: "adverb",
+        betyder: "ensligt",
+        belagt: "ca 1420",
+        från: [
+            {
+                ord: "afsidhis",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avsikt: {
+        ordklass: "substantiv",
+        betyder: "inriktning av viljan",
+        belagt: 1749,
+        från: [
+            {
+                ord: "absicht",
+                språk: "tyska"
+            }
+        ]
+    },
+    avsiktsförklaring: {
+        ordklass: "substantiv",
+        betyder: "informell överenskommelse där parterna uttrycker sin avsikt att senare inleda ett samarbete",
+        belagt: 1989,
+        från: [
+            {
+                ord: "letter of intent",
+                språk: "engelska"
+            }
+        ]
+    },
+    avsked: {
+        ordklass: "substantiv",
+        betyder: "något som ska uttrycka att man skiljs åt",
+        belagt: 1555,
+        från: [
+            {
+                ord: "afschet",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    avskilja: {
+        ordklass: "verb",
+        betyder: "lösgöra från sitt sammanhang",
+        belagt: "ca 1400",
+        från: [
+            {
+                ord: "afskilia",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avskrift: {
+        ordklass: "substantiv",
+        betyder: "skriven kopia",
+        belagt: "1400-talet",
+        från: [
+            {
+                ord: "afskript",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avskriva: {
+        ordklass: "verb",
+        betyder: "göra en avskrift av",
+        belagt: 1480,
+        från: [
+            {
+                ord: "afskrifva",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avskräde: {
+        ordklass: "substantiv",
+        betyder: "rester eller material som man vill bli av med",
+        belagt: "1400-25",
+        från: [
+            {
+                ord: "afskrädha",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avsky: {
+        ordklass: "substantiv",
+        betyder: "mycket stark motvilja",
+        belagt: 1699,
+        från: [
+            {
+                ord: "abschuw",
+                språk: "lågtyska"
+            },
+            {
+                ord: "abscheu",
+                språk: "tyska"
+            }
+        ]
+    },
+    avskära: {
+        ordklass: "verb",
+        betyder: "skära av",
+        belagt: 1656,
+        från: [
+            {
+                ord: "afskära",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avslå: {
+        ordklass: "verb",
+        betyder: "förklara (ansökan eller dylikt) inte beviljad",
+        belagt: 1545,
+        från: [
+            {
+                ord: "afsla",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avsnitt: {
+        ordklass: "substantiv",
+        betyder: "avgränsad del som bildar naturlig egen helhet",
+        belagt: 1840,
+        från: [
+            {
+                ord: "abschnitt",
+                språk: "tyska"
+            }
+        ]
+    },
+    avspisa: {
+        ordklass: "verb",
+        betyder: "avvisa på ett lättvindigt sätt",
+        belagt: 1646,
+        från: [
+            {
+                ord: "afspisa",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avstickare: {
+        ordklass: "substantiv",
+        betyder: "liten extrautflykt",
+        belagt: 1883,
+        från: [
+            {
+                ord: "abstecher",
+                språk: "danska"
+            },
+            {
+                ord: "abstecher",
+                språk: "tyska"
+            }
+        ]
+    },
+    avstyra: {
+        ordklass: "verb",
+        betyder: "få (något oönskat) att inte inträffa",
+        belagt: "1500-talet",
+        från: [
+            {
+                ord: "afstyra",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "afstüren",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    avstå: {
+        ordklass: "verb",
+        betyder: "låta bli att utnyttja eller utföra",
+        belagt: 1567,
+        från: [
+            {
+                ord: "afstan",
+                språk: "lågtyska"
+            },
+            {
+                ord: "abstehen",
+                språk: "tyska"
+            }
+        ]
+    },
+    avstånd: {
+        ordklass: "substantiv",
+        betyder: "längd av sträcka mellan två punkter i rummet",
+        belagt: 1741,
+        från: [
+            {
+                ord: "abstand",
+                språk: "tyska"
+            }
+        ]
+    },
+    avsåga: {
+        ordklass: "verb",
+        betyder: "såga bort",
+        belagt: "ca 1520",
+        från: [
+            {
+                ord: "afsaga",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avsätta: {
+        ordklass: "verb",
+        betyder: "formellt beröva befattning",
+        belagt: "1320-50",
+        från: [
+            {
+                ord: "afsätia",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "afsetten",
+                språk: "lågtyska"
+            }
+        ]
+    },
+    avta: {
+        ordklass: "verb",
+        betyder: "minska i styrka eller omfattning",
+        belagt: 1648,
+        från: [
+            {
+                ord: "aftaka",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avtaga: {
+        ordklass: "verb",
+        betyder: "minska i styrka eller omfattning",
+        belagt: 1648,
+        från: [
+            {
+                ord: "aftaka",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avtala: {
+        ordklass: "verb",
+        betyder: "gemensamt bestämma",
+        belagt: 1501,
+        från: [
+            {
+                ord: "aftala",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "abreden",
+                språk: "tyska"
+            }
+        ]
+    },
+    avträde: {
+        ordklass: "substantiv",
+        betyder: "överlåtelse av något",
+        belagt: 1720,
+        från: [
+            {
+                ord: "abtritt",
+                språk: "tyska"
+            }
+        ]
+    },
+    avund: {
+        ordklass: "substantiv",
+        betyder: "känsla av olust över att inte vara delaktig av någon annans förmån",
+        belagt: "1200-talet",
+        från: [
+            {
+                ord: "afund",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avundas: {
+        ordklass: "verb",
+        betyder: "känna avundsjuka mot",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "afundas",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avundsjuk: {
+        ordklass: "adjektiv",
+        betyder: "som känner avund",
+        belagt: 1385,
+        från: [
+            {
+                ord: "afundsiuker",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avundsman: {
+        ordklass: "substantiv",
+        betyder: "person som avundas och motarbetar någon",
+        belagt: "1420-50",
+        från: [
+            {
+                ord: "afundsman",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avveckla: {
+        ordklass: "verb",
+        betyder: "gradvis upphöra med",
+        belagt: 1871,
+        från: [
+            {
+                ord: "abwickeln",
+                språk: "tyska"
+            }
+        ]
+    },
+    avvika: {
+        ordklass: "verb",
+        betyder: "ändra sin färdriktning",
+        belagt: "1430-50",
+        från: [
+            {
+                ord: "afvika",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avvinna: {
+        ordklass: "verb",
+        betyder: "få fram (något värdefullt) ur",
+        belagt: 1825,
+        från: [
+            {
+                ord: "afvinna",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avvända: {
+        ordklass: "verb",
+        betyder: "leda bort",
+        belagt: 1484,
+        från: [
+            {
+                ord: "afvända",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avvänja: {
+        ordklass: "verb",
+        betyder: "vänja (spädbarn) vid att avstå från bröstmjölk",
+        belagt: 1385,
+        från: [
+            {
+                ord: "afvänia",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avväpna: {
+        ordklass: "verb",
+        betyder: "ta ifrån (någon) vapnen",
+        belagt: "1430-50",
+        från: [
+            {
+                ord: "afväpna",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avvärja: {
+        ordklass: "verb",
+        betyder: "hindra (något hotande) att ske eller lyckas",
+        belagt: "ca 1452",
+        från: [
+            {
+                ord: "afväria",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    avyttra: {
+        ordklass: "verb",
+        betyder: "göra sig av med äganderätten till",
+        belagt: 1769,
+        från: [
+            {
+                ord: "entäußern",
+                språk: "tyska"
+            }
+        ]
+    },
+    aväta: {
+        ordklass: "verb",
+        betyder: "äta",
+        belagt: 1885,
+        från: [
+            {
+                ord: "afäta",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    ax: {
+        ordklass: "substantiv",
+        betyder: "topp på strå av säd eller (halv)gräs, där det sitter en mängd (blommor och) korn eller frön",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "ax",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    axel: {
+        ordklass: "substantiv",
+        betyder: "kroppsdel som utgör fäste för arm",
+        belagt: "1300-talet",
+        från: [
+            {
+                ord: "axl",
+                språk: "fornsvenska"
+            },
+            {
+                ord: "ala",
+                språk: "latin"
+            },
+            {
+                ord: "axilla",
+                språk: "latin"
+            }
+        ]
+    },
+    axial: {
+        ordklass: "adjektiv",
+        betyder: "placerad eller verksam i en axels längdriktning",
+        belagt: 1855,
+        från: [
+            {
+                ord: "axis",
+                språk: "latin"
+            }
+        ]
+    },
+    axill: {
+        ordklass: "substantiv",
+        betyder: "armhåla",
+        belagt: 1813,
+        från: [
+            {
+                ord: "axilla",
+                språk: "latin"
+            }
+        ]
+    },
+    axiom: {
+        ordklass: "substantiv",
+        betyder: "grundläggande sats som inte bevisas",
+        belagt: 1744,
+        från: [
+            {
+                ord: "axioma",
+                språk: "grekiska"
+            }
+        ]
+    },
+    axla: {
+        ordklass: "verb",
+        betyder: "överta",
+        belagt: "1500-talet",
+        från: [
+            {
+                ord: "axla",
+                språk: "fornsvenska"
+            }
+        ]
+    },
+    axon: {
+        ordklass: "substantiv",
+        betyder: "utåtledande utskott från nervcell",
+        belagt: 1947,
+        från: [
+            {
+                ord: "axon",
+                språk: "grekiska"
+            }
+        ]
+    },
+    ayatolla: {
+        ordklass: "substantiv",
+        betyder: "(titel för) hög muslimsk ledare",
+        belagt: 1979,
+        från: [
+            {
+                ord: "āyatullāh",
+                språk: "arabiska"
+            }
+        ]
+    },
+    azalea: {
+        ordklass: "substantiv",
+        betyder: "typ av (ofta buskformig) ljungväxt med enkla eller dubbla, tättsittande blommor",
+        belagt: 1855,
+        från: [
+            {
+                ord: "azaleos",
+                språk: "nylatin"
+            },
+            {
+                ord: "azaleos",
+                språk: "grekiska"
+            }
+        ]
+    },
+    aztek: {
+        ordklass: "substantiv",
+        betyder: "person som tillhörde ett urfolk som bebodde delar av nuvarande Mexiko",
+        belagt: 1836,
+        från: [
+            {
+                ord: "azteca",
+                språk: "spanska"
+            },
+            {
+                ord: "azteca",
+                språk: "aztekiska"
+            }
+        ]
+    },
+    azur: {
+        ordklass: "substantiv",
+        betyder: "klar himmelsblå färg",
+        belagt: 1780,
+        från: [
+            {
+                ord: "azur",
+                språk: "franska"
+            },
+            {
+                ord: "lazhuward",
+                språk: "persiska"
+            }
+        ]
+    },
     MALL: {
         ordklass: "",
         betyder: "",
@@ -12036,7 +13391,7 @@ function displayWord(w) {
     html += "</div>"
 
     var count = Object.keys(words).length;
-    html += "<p>Antal ord: " + count + "</p>"
+    html += "<p>Antal ord (som börjar på bokstaven <i>a</i> samt har kratlagd härkomst): " + count + "</p>"
 
     etymologiDiv.innerHTML = html;
 

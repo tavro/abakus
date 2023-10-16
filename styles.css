@@ -28,7 +28,7 @@ body {
 #staple-diagram {
     display: flex;
     align-items: end;
-    height: 50vh;
+    height: 55vh;
     margin: 0 auto;
     max-width: 600px;
     overflow: scroll;
